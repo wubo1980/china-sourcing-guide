@@ -579,5 +579,85 @@ export const articles: Article[] = [
         takeaway: "Clearance delays usually come from preventable coordination gaps."
       }
     ]
+  },
+  {
+    slug: "us-china-tariffs-2026-what-importers-need-to-know",
+    category: "shipping-logistics",
+    title: "US-China Tariffs in 2026: What Importers Need to Know",
+    description:
+      "The current US tariff on Chinese goods averages around 33% across four stacked layers. Here is what importers need to know about MFN, Section 301, IEEPA, and reciprocal tariffs.",
+    publishedAt: "2026-05-30",
+    readingTime: 9,
+    tags: ["Tariffs", "Customs", "Trade Policy", "Import Costs"],
+    cta: defaultCta,
+    sections: [
+      {
+        title: "How the four-layer tariff stack works",
+        paragraphs: [
+          "Since early 2025, US tariffs on Chinese goods have evolved into a four-layer stack that no single news headline captures. Each layer applies independently, meaning the effective tariff rate is the sum of all active layers for a given product.",
+          "The first layer is the MFN (Most Favored Nation) rate, which averages around 3.4% for industrial goods but varies by HS code. This is the baseline that almost every WTO member receives, and it has been in place for decades.",
+          "The second layer is Section 301 tariffs, imposed under the Trade Act of 1974. These range from 7.5% to 25% depending on the product category and were originally enacted during the first Trump administration. Despite multiple rounds of negotiation, most Section 301 tariff lines remain active.",
+          "The third layer is the IEEPA tariff, a 20% across-the-board surcharge introduced under the International Emergency Economic Powers Act. Unlike Section 301, IEEPA tariffs are not product-specific and apply broadly to Chinese-origin goods.",
+          "The fourth layer is the reciprocal tariff, set at 10% for Chinese goods under the recent \"Fair Trade\" executive order. This layer targets what the US Trade Representative identifies as trade barriers in the Chinese market. Combined, these four layers push the average effective rate to roughly 33%, with some categories exceeding 145%."
+        ],
+        bullets: [
+          "MFN rates are the baseline and vary by HS code — check your product's specific rate before modeling costs.",
+          "Section 301 tariffs remain active on most List 3 and List 4A product categories.",
+          "The IEEPA 20% surcharge applies across all Chinese imports regardless of product type.",
+          "The reciprocal 10% tariff is the newest layer and may be subject to further escalation or negotiation."
+        ],
+        takeaway: "The effective tariff rate is the sum of all four layers, not any single headline number."
+      },
+      {
+        title: "Sector-specific impact",
+        paragraphs: [
+          "Not all products are affected equally. The tariff stack is uneven, with some sectors bearing a far heavier burden than others. Importers need to understand where their product sits within this spectrum before making sourcing decisions.",
+          "Electric vehicles face the highest combined rate at over 145%. This includes the standard 25% Section 301 automotive tariff plus IEEPA and reciprocal layers. Battery products face similarly steep rates, with Section 301 tariffs on Chinese batteries set at 25%, pushing combined rates above 70% for most battery categories.",
+          "Solar panels, a sector that has been under US trade scrutiny for over a decade, now carries combined rates in the 50-80% range depending on the specific product classification. Anti-dumping and countervailing duties (AD/CVD) can add even more.",
+          "Consumer electronics — smartphones, laptops, and peripherals — have fared relatively better. Most of these categories fell under List 4B exclusions during the original Section 301 rollout and have not been fully re-included. However, the IEEPA and reciprocal layers still apply, pushing effective rates into the 30-35% range."
+        ],
+        bullets: [
+          "EVs and auto parts: combined rates exceed 145% — direct sourcing from China is currently uneconomical.",
+          "Batteries and solar: expect 50-80% combined rates. Some categories face additional AD/CVD duties.",
+          "Consumer electronics: relatively lower impact at 30-35%, but still significant margin pressure.",
+          "Industrial machinery and components: effective rates vary widely between 25% and 50% depending on HS code."
+        ],
+        takeaway: "Your effective tariff rate depends entirely on your product's HS classification and its history of trade actions."
+      },
+      {
+        title: "What importers can do to mitigate tariff impact",
+        paragraphs: [
+          "With effective tariffs at multi-decade highs, importers who treat tariffs as a fixed cost are leaving margin on the table. Several strategies can reduce the burden, though none are permanent solutions on their own.",
+          "HS code optimization is the first lever. Importers should review their product classification with a licensed customs broker or trade attorney. Small changes in how a product is described and classified can shift it into a more favorable tariff treatment. This is not loophole hunting — it is simply ensuring the product is classified correctly based on its material composition and function.",
+          "Free Trade Agreement (FTA) alternatives are gaining traction. Importers whose supply chains can shift production to Vietnam, Thailand, Mexico, or other FTA partners should evaluate the cost and feasibility. The US-Mexico-Canada Agreement (USMCA) offers preferential treatment for qualifying goods originating in Mexico. Several Southeast Asian countries also maintain favorable MFN rates on electronics and textile products.",
+          "Warehousing and duty deferral strategies can help with cash flow. Using a Foreign Trade Zone (FTZ) or bonded warehouse allows importers to defer duty payments until goods enter US commerce. In some cases, products can be stored and re-exported without paying any US duty at all.",
+          "Supplier negotiation and cost sharing should not be overlooked. Many Chinese suppliers are willing to adjust pricing when tariff changes are documented and transparent. A cooperative approach — where buyer and supplier split the additional tariff cost — can preserve margins while maintaining the supplier relationship."
+        ],
+        bullets: [
+          "Review HS classifications annually with a trade professional to ensure accuracy.",
+          "Evaluate production shifts to Vietnam, Thailand, Mexico, or other FTA beneficiary countries.",
+          "Consider FTZ or bonded warehouse strategies for cash flow and duty deferral.",
+          "Negotiate tariff cost sharing with suppliers instead of absorbing the full increase."
+        ],
+        takeaway: "Tariff mitigation requires proactive planning — waiting until the container arrives is too late."
+      },
+      {
+        title: "The outlook for the second half of 2026",
+        paragraphs: [
+          "The current tariff environment is not static. Several policy developments in the coming months could significantly change the landscape for importers.",
+          "The 90-day exemption on certain IEEPA tariff lines runs through August 2026. Products that were granted temporary relief will revert to full tariff treatment unless the exemption is extended. Importers with goods in this category should plan for the worst case and watch for policy signals in July.",
+          "China has signaled willingness to return to the negotiating table. High-level trade talks are expected to resume in the summer, with potential for partial tariff rollbacks in exchange for Chinese market access commitments. However, past negotiation cycles have been unpredictable, and importers should not bet on substantial relief in the short term.",
+          "The reciprocal tariff layer faces congressional scrutiny. Some lawmakers have questioned the legal basis for executive-ordered reciprocal tariffs, and legislative challenges could create uncertainty. A court ruling or congressional action could suspend or modify this layer, though the timeline is unclear.",
+          "Most trade analysts expect tariffs to remain elevated through the end of 2026, with gradual de-escalation possible in 2027. The strategic takeaway for importers is to build tariff resilience into their supply chain planning rather than hoping for rapid normalization."
+        ],
+        bullets: [
+          "Watch for the August 2026 IEEPA exemption deadline — affected goods may see a sharp cost increase.",
+          "Monitor US-China trade talks in summer 2026 for potential partial relief signals.",
+          "Plan for elevated tariffs through end of 2026, with gradual improvement possible in 2027.",
+          "Build tariff scenarios into your sourcing and pricing model instead of treating them as surprises."
+        ],
+        takeaway: "Hope for de-escalation, but plan your supply chain as if current tariffs are the new normal."
+      }
+    ]
   }
 ];
