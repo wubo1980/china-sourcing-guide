@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 import { Inter, JetBrains_Mono } from "next/font/google";
 import type { ReactNode } from "react";
+import { Analytics } from "@vercel/analytics/next";
 
-import { GoogleAnalytics } from "../components/google-analytics";
 import { buildMetadata } from "../lib/seo";
 
 import "./globals.css";
@@ -41,7 +41,7 @@ export default function RootLayout({ children }: RootLayoutProps) {
     <html lang="en">
       <body className={`${inter.variable} ${jetBrainsMono.variable} bg-[#0f1117] font-[var(--font-inter)] text-[#f3f4f6] antialiased`}>
         {children}
-        <GoogleAnalytics />
+        <Analytics mode="production" />
       </body>
     </html>
   );
