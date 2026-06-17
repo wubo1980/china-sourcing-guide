@@ -10,13 +10,16 @@ type BuildMetadataOptions = {
 const siteName = "China Sourcing Guide";
 const defaultDescription =
   "Practical guidance on finding factories, negotiating deals, quality control, logistics, and customs when sourcing from China.";
-const defaultSiteUrl = "https://china-sourcing-guide.vercel.app";
-
 /**
- * 返回当前站点 URL。
+ * 站点基础 URL。
+ * VERCEL_URL 是 Vercel 自动注入的环境变量（如 china-sourcing-guide-murex.vercel.app），
+ * 取不到则回退到 VERCEL_BRANCH_URL 或硬编码值。
  */
 export function getSiteUrl(): string {
-  return process.env.NEXT_PUBLIC_SITE_URL || defaultSiteUrl;
+  return process.env.NEXT_PUBLIC_SITE_URL
+    || (process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : "")
+    || (process.env.VERCEL_BRANCH_URL ? `https://${process.env.VERCEL_BRANCH_URL}` : "")
+    || "https://china-sourcing-guide-murex.vercel.app";
 }
 
 /**
