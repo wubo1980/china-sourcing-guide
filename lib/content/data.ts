@@ -579,7 +579,7 @@ export const articles: Article[] = [
         takeaway: "Clearance delays usually come from preventable coordination gaps."
       }
     ]
-  },
+  },
   {
     slug: "us-china-tariffs-2026-what-importers-need-to-know",
     category: "shipping-logistics",
@@ -657,6 +657,378 @@ export const articles: Article[] = [
           "Build tariff scenarios into your sourcing and pricing model instead of treating them as surprises."
         ],
         takeaway: "Hope for de-escalation, but plan your supply chain as if current tariffs are the new normal."
+      }
+    ]
+  },
+  // --- New articles added in June 2026 update ---
+  {
+    slug: "china-factory-audit-5-types-compared",
+    category: "quality-control",
+    title: "China Factory Audit: 5 Types Compared",
+    description:
+      "Compare 5 China factory audit types: desk, product, process, social compliance, and full audit. Learn costs and find the right type for your import budget.",
+    publishedAt: "2026-06-22",
+    readingTime: 10,
+    tags: ["Factory Audit", "Supplier Verification", "QC", "Inspection"],
+    cta: defaultCta,
+    sections: [
+      {
+        title: "Why audit type choice matters more than you think",
+        paragraphs: [
+          "Ask five experienced China buyers what a factory audit is, and you will get five different answers. One means checking business licenses. Another means walking the production floor for a day. A third means inspecting the first batch off the line. They are all correct, but they are different audit types with different costs and outcomes.",
+          "Choosing the wrong audit type wastes money and gives false confidence. A desk audit cannot catch production problems. A full audit is overkill for a sample order. This guide breaks down the five common audit types so you can match the audit to your order risk and budget."
+        ],
+        bullets: [
+          "Audit types are not interchangeable. Each answers a different question.",
+          "Over-auditing wastes budget. Under-auditing creates false confidence.",
+          "Match audit depth to order value, product complexity, and supplier history."
+        ],
+        takeaway: "The right audit type depends on what you need to verify, not what sounds thorough."
+      },
+      {
+        title: "Type 1: Desk audit (also called document audit)",
+        paragraphs: [
+          "A desk audit verifies supplier documentation without visiting the factory. It checks business license, tax registration, export qualifications, trademark filings, and quality certifications like ISO 9001. The auditor reviews scanned documents and cross-checks them against public databases.",
+          "Cost ranges from $200 to $500. Turnaround is usually three to five business days. It is the cheapest audit type but also the least revealing. A supplier can pass a desk audit while having serious production problems."
+        ],
+        bullets: [
+          "Use desk audits for initial screening before ordering samples.",
+          "Good for confirming the supplier legally exists and has relevant certifications.",
+          "Do not rely on a desk audit alone for anything beyond basic identity verification."
+        ],
+        takeaway: "A desk audit checks paperwork, not capability. Use it as a gate, not a guarantee."
+      },
+      {
+        title: "Type 2: Product audit (sample inspection)",
+        paragraphs: [
+          "A product audit inspects the physical product against your specifications. It checks dimensions, materials, finish, packaging, and labeling. It answers a narrow question: does this product meet the spec?",
+          "Cost ranges from $300 to $800 per sample batch. This audit does not evaluate the factory's overall capability, only the specific item being inspected. Many buyers use this as their first real QC step after receiving samples."
+        ],
+        bullets: [
+          "Use product audits to verify samples before approving production.",
+          "Works well when you already trust the factory and just need spec confirmation.",
+          "Does not tell you about the factory's capacity, process control, or working conditions."
+        ],
+        takeaway: "A product audit checks what came out, not how it was made."
+      },
+      {
+        title: "Type 3: Process audit (production line audit)",
+        paragraphs: [
+          "A process audit evaluates how the factory makes the product. It examines equipment maintenance, worker training, quality checkpoints, material handling, and production records. This is where you catch process-level defects before they scale.",
+          "Cost ranges from $800 to $2,000 per audit. It typically takes a full day onsite. This is the most cost-effective audit for first production runs because it identifies systemic issues that product audits miss."
+        ],
+        bullets: [
+          "Use process audits for first orders, new suppliers, or when QC results are inconsistent.",
+          "Ask the auditor to trace one unit through the full production line.",
+          "Request corrective action plans for every nonconformance found."
+        ],
+        takeaway: "Process audits find root causes. Product audits find symptoms."
+      },
+      {
+        title: "Type 4: Social compliance audit",
+        paragraphs: [
+          "A social compliance audit checks working conditions, wages, working hours, health and safety, and labor rights. It matters if you sell to retailers that require ethical sourcing certification or if your brand positions itself on sustainability.",
+          "Cost ranges from $1,500 to $4,000 depending on factory size and audit standard (SMETA, BSCI, SEDEX, SA8000). The audit is typically unannounced or short-notice. Preparation can take the factory several weeks."
+        ],
+        bullets: [
+          "Required if you sell to Walmart, Target, IKEA, or similar retailers.",
+          "Increasingly requested by European buyers and ESG-conscious brands.",
+          "Can delay production if the factory needs time to address findings."
+        ],
+        takeaway: "Compliance audits are non-negotiable for certain buyers. Check your customer requirements before the order."
+      },
+      {
+        title: "Type 5: Full factory audit (comprehensive)",
+        paragraphs: [
+          "A full factory audit combines document review, product inspection, process evaluation, and compliance checks into one engagement. It gives the most complete picture but costs $3,000 to $6,000 and takes two to three days onsite.",
+          "Full audits make sense for large-volume suppliers, strategic partners, or when you are placing a high-value first order. They are usually overkill for small test orders or repeat suppliers with a proven track record."
+        ],
+        bullets: [
+          "Reserve full audits for high-value, high-risk, or strategic suppliers.",
+          "Combine with quarterly or annual follow-up process audits for ongoing monitoring.",
+          "Do not use full audits as a routine check — they create fatigue for both buyer and supplier."
+        ],
+        takeaway: "Full audits are a strategic investment, not a recurring expense."
+      },
+      {
+        title: "The virtual audit trap in 2026",
+        paragraphs: [
+          "Since 2025, a growing number of audit firms offer 'virtual audits' conducted through video calls, shared screens, and digital document review. While these can reduce travel costs, they introduce a new risk: staged environments.",
+          "Some suppliers set up a fake production line for the video call, showing equipment that is not actually connected or workers who are not regular employees. The 'virtual trap' has become common enough that experienced buyers treat video-only audits as unreliable for process verification.",
+          "If you must use a virtual audit, require real-time walkthrough with specific checkpoints (show the raw material storage area, show the QC station, show today's production log) rather than a scripted presentation."
+        ],
+        bullets: [
+          "Virtual audits are acceptable for desk/document checks only.",
+          "Require real-time, unscripted walkthrough for any process verification.",
+          "Use a local third-party inspector for your first production audit — it is worth the cost."
+        ],
+        takeaway: "If the factory only accepts a virtual audit, treat the results as low confidence."
+      }
+    ]
+  },
+  {
+    slug: "china-plus-one-strategy-2026-diversify",
+    category: "shipping-logistics",
+    title: "China+1: Diversify Your Sourcing",
+    description:
+      "China+1 strategy for small importers importing from China. Compare Vietnam, India, and Mexico alternatives. Learn real costs and a phase-based roadmap.",
+    publishedAt: "2026-06-22",
+    readingTime: 10,
+    tags: ["China+1", "Supply Chain", "Diversification", "Southeast Asia"],
+    cta: defaultCta,
+    sections: [
+      {
+        title: "What China+1 actually means for small importers",
+        paragraphs: [
+          "China+1 is not about leaving China. It is about adding a second sourcing country so you are not entirely dependent on one supply chain. For small and mid-size importers, the goal is risk reduction, not complete relocation.",
+          "The idea sounds simple, but execution is harder than most guides admit. A 2026 analysis by New Buying Agent found that most China+1 strategies fail within 18 months because buyers underestimate ecosystem gaps — the supporting infrastructure of suppliers, logistics providers, and skilled labor that China built over three decades."
+        ],
+        bullets: [
+          "China+1 means 'keep China as your primary source, add one alternative.'",
+          "Do not confuse China+1 with 'China exit' — they are different strategies.",
+          "Expect the first 12 months in a new country to be less efficient than China."
+        ],
+        takeaway: "China+1 is an insurance policy, not a relocation plan."
+      },
+      {
+        title: "Vietnam: the closest ecosystem fit",
+        paragraphs: [
+          "Vietnam is the most popular China+1 destination for good reasons. It shares a land border with China, has a growing manufacturing workforce, and benefits from multiple free trade agreements including the CPTPP and EVFTA. Garment, footwear, and furniture buyers have been shifting production here since 2019.",
+          "The downsides are real. Vietnam lacks deep supply chains for electronics components and industrial machinery. Many 'Vietnam factories' are actually Chinese-owned facilities that import semi-finished goods from China for final assembly. Labor costs have risen 15-20% since 2022, narrowing the cost advantage."
+        ],
+        bullets: [
+          "Best for: textiles, footwear, furniture, simple electronics assembly.",
+          "Weak for: complex electronics, precision machinery, automotive parts.",
+          "Labor costs rising but still 20-30% below coastal China."
+        ],
+        takeaway: "Vietnam works well when your product category matches its ecosystem strengths."
+      },
+      {
+        title: "India: scale potential with execution friction",
+        paragraphs: [
+          "India offers a massive domestic market, government production-linked incentive (PLI) schemes, and improving infrastructure. It is strongest in pharmaceuticals, automotive components, and IT hardware. Apple and Foxconn have expanded production significantly since 2023.",
+          "The friction points are significant for small buyers. Supplier discovery is harder than China. Quality consistency varies widely between regions. Customs and logistics are less streamlined. Many buyers find that the total landed cost for India is equivalent to China once you account for these frictions, not cheaper."
+        ],
+        bullets: [
+          "Best for: pharmaceuticals, automotive parts, IT hardware, leather goods.",
+          "Harder for: consumer goods, general merchandise, fast-moving categories.",
+          "Government PLI schemes can reduce costs but require navigating bureaucracy."
+        ],
+        takeaway: "India works best for product categories where the government has actively built manufacturing capacity."
+      },
+      {
+        title: "Mexico: proximity advantage with capacity limits",
+        paragraphs: [
+          "Mexico's main advantage is geography. USMCA preferential treatment means qualifying goods can enter the US duty-free. Freight transit from Mexico to the US is 2-5 days versus 20-30 days from China. Nearshoring has surged, especially in auto parts, medical devices, and electronics.",
+          "The limitations are capacity and cost. Mexico does not have the supplier density that China has, so finding alternatives if a supplier fails is harder. Labor costs are higher than China for most categories. The USMCA rules of origin require substantial processing in North America, which some products cannot meet."
+        ],
+        bullets: [
+          "Best for: auto parts, medical devices, large-volume assembled goods.",
+          "Limited for: small consumer goods, general merchandise, textile-heavy products.",
+          "Proximity to US market is a major advantage for time-sensitive categories."
+        ],
+        takeaway: "Mexico is strongest when USMCA eligibility and fast transit time directly improve your margin."
+      },
+      {
+        title: "A practical diversification roadmap for small importers",
+        paragraphs: [
+          "Diversifying your supply chain does not require a massive upfront investment. The most successful small importers follow a phased approach that builds options without overcommitting.",
+          "Phase 1 (months 1-3): Identify which of your products are most exposed to tariff increases or single-supplier risk. These are the candidates for the first China+1 test.",
+          "Phase 2 (months 3-6): Source samples from 2-3 suppliers in your target country. Compare quality, cost, communication, and lead time against your current China supplier. Do not switch entirely yet.",
+          "Phase 3 (months 6-12): Place a pilot order of 10-20% of your typical volume. Use this to test logistics, customs clearance, and the supplier's ability to handle repeat orders.",
+          "Phase 4 (month 12+): Based on pilot results, either increase allocation to the new source or consider a different country. Expect to iterate."
+        ],
+        bullets: [
+          "Start with one product category, not your entire catalog.",
+          "Run the new source and China in parallel for at least 6 months.",
+          "Budget 12-18 months for the transition to reach comparable efficiency."
+        ],
+        takeaway: "Successful diversification is iterative. Start small, test thoroughly, and scale what works."
+      }
+    ]
+  },
+  {
+    slug: "ip-protection-china-manufacturing-guide",
+    category: "negotiation-pricing",
+    title: "IP Protection for China Manufacturing",
+    description:
+      "Practical IP protection for importers sourcing from China. Learn about patents, NDAs, supply chain isolation, and recourse when suppliers copy your designs.",
+    publishedAt: "2026-06-22",
+    readingTime: 8,
+    tags: ["IP Protection", "Patents", "NDA", "Design Protection"],
+    cta: defaultCta,
+    sections: [
+      {
+        title: "Why small importers lose IP protection arguments",
+        paragraphs: [
+          "The most common IP mistake small importers make is thinking that Chinese laws do not protect foreign designs. In reality, China has patent, trademark, and copyright laws that are regularly enforced. The problem is not the law. It is that most small importers never file protection in China at all.",
+          "IP rights are territorial. A US patent or trademark gives you zero protection in China. If your product design is not registered with the China National Intellectual Property Administration (CNIPA), a competitor can legally copy it in China. A 2026 supplier IP audit checklist from Yucheng IP Law emphasizes that registration in China must happen before you share designs with suppliers."
+        ],
+        bullets: [
+          "US patents and trademarks do not apply in China. Register locally.",
+          "China follows a first-to-file system, not first-to-invent.",
+          "Filing costs in China are lower than in the US but must be done proactively."
+        ],
+        takeaway: "If your design is valuable enough to manufacture, it is valuable enough to register in China."
+      },
+      {
+        title: "Patent strategy for small budgets",
+        paragraphs: [
+          "China offers three patent types: invention patents (20 years, 18-36 month examination), utility model patents (10 years, 6-12 month examination), and design patents (15 years, 3-6 month examination). For most small importers, utility model and design patents are the practical starting points because of faster approval and lower cost.",
+          "A utility model patent in China costs roughly $500-$1,500 to file through a local patent agent. A design patent costs $300-$800. Compare this to the cost of having your product copied and losing market share to a cheaper knockoff."
+        ],
+        bullets: [
+          "Utility model patents: fast approval (6-12 months), low cost, covers product structure.",
+          "Design patents: fastest approval (3-6 months), covers appearance only.",
+          "Invention patents: longest and most expensive, but strongest protection."
+        ],
+        takeaway: "File a utility model or design patent before sending your specification to any supplier."
+      },
+      {
+        title: "NDAs have limited power — here is what to do instead",
+        paragraphs: [
+          "Non-disclosure agreements are common in China sourcing, but their practical enforcement is limited. NDAs are useful for establishing a paper trail and showing intent, but suing a Chinese supplier for NDA breach is expensive and slow, especially for small claims.",
+          "A more effective strategy is structural separation: split your product design across multiple suppliers so no single supplier has the complete picture. For example, have one factory produce the main body, another make the electronics, and a third handle packaging assembly. This makes copying significantly harder."
+        ],
+        bullets: [
+          "NDAs establish intent but are hard to enforce for small claims.",
+          "Structural separation is more effective than any single legal document.",
+          "Consider using a sourcing agent to manage multi-supplier coordination."
+        ],
+        takeaway: "Design your supply chain so that no single supplier can reproduce your full product."
+      },
+      {
+        title: "What to do when you discover a copycat",
+        paragraphs: [
+          "If you find a copy of your product on Alibaba or at a trade show, act quickly but strategically. First, confirm whether the copycat is your current supplier or a third party. If it is your supplier, you have leverage: production stoppage threat, unpaid balance, or supply switch. If it is a third party, your recourse depends on whether you registered IP in China.",
+          "For registered patents, send a cease-and-desist letter through a Chinese law firm. Many unauthorized sellers will stop immediately because they are risk-averse. If they do not stop, file a complaint with the local Market Supervision Bureau or the e-commerce platform's IP protection program."
+        ],
+        bullets: [
+          "Use a Chinese law firm for cease-and-desist letters — supplier response rate is higher.",
+          "Register on Alibaba's IP protection platform before problems arise.",
+          "Keep organized records of your design registration, contracts, and correspondence."
+        ],
+        takeaway: "IP problems in China are manageable when you have registered rights and act decisively."
+      }
+    ]
+  },
+  {
+    slug: "canton-fair-2026-buyer-strategy-guide",
+    category: "factory-finder",
+    title: "Canton Fair 2026 Buyers Guide",
+    description:
+      "Canton Fair playbook for first-time buyers sourcing from China. Pre-fair prep, on-site evaluation, and post-fair follow-up to maximize your Guangzhou trip.",
+    publishedAt: "2026-06-22",
+    readingTime: 8,
+    tags: ["Canton Fair", "Trade Shows", "Sourcing Events", "Guangzhou"],
+    cta: defaultCta,
+    sections: [
+      {
+        title: "Why Canton Fair still matters in 2026",
+        paragraphs: [
+          "Despite the growth of online B2B platforms and digital sourcing tools, the Canton Fair in Guangzhou remains the single highest-ROI sourcing event for small and mid-size importers. The fair hosts over 25,000 exhibitors across three phases, covering everything from consumer goods to industrial equipment.",
+          "The Reevol Source 2026 guide identifies the Canton Fair as the best venue for SME buyers to find new suppliers, compare quality in person, and negotiate terms face to face. The key is going with a strategy, not just showing up."
+        ],
+        bullets: [
+          "Three phases: Phase 1 (electronics/hardware), Phase 2 (consumer goods/gifts), Phase 3 (textiles/food).",
+          "Over 25,000 exhibitors across two exhibition areas in Guangzhou.",
+          "Online platform available for pre-registration and supplier preview."
+        ],
+        takeaway: "Canton Fair is a discovery engine. The value is in what you do before and after, not just during."
+      },
+      {
+        title: "Pre-fair preparation (4-6 weeks before)",
+        paragraphs: [
+          "The buyers who get the most out of Canton Fair do not start at the exhibition hall. They start weeks earlier by identifying target product categories, researching exhibitors, and scheduling meetings in advance.",
+          "Use the Canton Fair official website to search exhibitors by category. Shortlist 20-30 suppliers. Check their Alibaba or 1688 storefronts for pricing and product range. Prepare a one-page supplier evaluation sheet with your key questions: MOQ, lead time, payment terms, QC process, and certifications."
+        ],
+        bullets: [
+          "Shortlist 20-30 suppliers and schedule booth visits before the fair.",
+          "Prepare a standardized evaluation sheet for comparing suppliers.",
+          "Book accommodation near Pazhou Complex early — prices triple during fair weeks."
+        ],
+        takeaway: "The fair itself is execution. The real strategy work happens before you arrive."
+      },
+      {
+        title: "On-site supplier evaluation (during the fair)",
+        paragraphs: [
+          "At the fair, your goal is to evaluate each shortlisted supplier against your criteria and identify 5-8 that deserve follow-up. Do not try to evaluate every supplier thoroughly at the booth. A booth conversation is for screening, not deep due diligence.",
+          "Key questions to ask at the booth: Are you a manufacturer or trading company? What is your minimum order quantity? Can you show me production samples rather than display samples? What inspection process do you use? How long have you exported to my market?"
+        ],
+        bullets: [
+          "Spend 10-15 minutes per booth. If a supplier cannot answer basic questions clearly, skip them.",
+          "Take photos of samples and booth badges for later reference.",
+          "Collect business cards and note your impression immediately — they blur together after day one."
+        ],
+        takeaway: "A booth conversation screens suppliers. The real evaluation happens when you visit their factory."
+      },
+      {
+        title: "Post-fair follow-up system (the part most buyers skip)",
+        paragraphs: [
+          "Most buyers collect hundreds of business cards at Canton Fair and follow up with almost none. The best importers have a follow-up system that starts within 48 hours of the fair closing.",
+          "Grade each supplier contact into A, B, or C tier: A-tier suppliers get a detailed RFQ within 3 days. B-tier get a general inquiry within 7 days. C-tier get archived unless they follow up first. Track everything in a spreadsheet with dates and next actions."
+        ],
+        bullets: [
+          "Grade suppliers within 48 hours while impressions are fresh.",
+          "Send tier A suppliers a detailed RFQ within 3 business days.",
+          "Use the fair interaction as context: mention the booth conversation in your email."
+        ],
+        takeaway: "The real ROI of Canton Fair is determined in the month after, not the week during."
+      }
+    ]
+  },
+  {
+    slug: "rmb-currency-risk-china-importers-guide",
+    category: "negotiation-pricing",
+    title: "RMB Payment Risk for Importers",
+    description:
+      "How RMB-USD volatility affects your import margin from China. Compare settlement methods and hedging tools for small buyers to reduce currency exposure.",
+    publishedAt: "2026-06-22",
+    readingTime: 7,
+    tags: ["Currency Risk", "RMB", "Payment", "Hedging"],
+    cta: defaultCta,
+    sections: [
+      {
+        title: "Why most importers ignore currency risk until it hurts",
+        paragraphs: [
+          "Importers spend hours negotiating unit prices with suppliers but rarely think about the exchange rate that will determine the actual cost in their home currency. When the RMB strengthens against the dollar by 5% over a production cycle, it can erase the entire margin you negotiated.",
+          "Since 2020, the RMB has shown increased volatility, moving 3-8% per year against the USD. For an importer operating on 15-25% margins, a 5% currency swing is the difference between profit and break-even."
+        ],
+        bullets: [
+          "Currency exposure is a real cost. Ignoring it does not make it go away.",
+          "A 5% RMB move can erase your entire negotiated savings from a supplier.",
+          "Small importers are the most exposed because they rarely hedge."
+        ],
+        takeaway: "Currency risk is a margin factor, not a theoretical concern."
+      },
+      {
+        title: "Settlement methods and their currency implications",
+        paragraphs: [
+          "Most China suppliers quote in USD, which already protects them from currency risk. But an increasing number are asking for RMB settlement, especially since China's cross-border payment infrastructure has improved. How you settle affects who carries the currency risk.",
+          "Cross-border RMB settlement through the China International Payment System (CIPS) is faster and cheaper than traditional USD wire through correspondent banks. However, it also means you carry the full exchange rate risk from the day you wire to the day the supplier converts the RMB.",
+          "USD settlement through T/T wire is still the most common. The supplier converts your USD to RMB through their bank, and the exchange rate at conversion time determines their margin. If the RMB strengthens between quote and payment, the supplier may ask for a price adjustment."
+        ],
+        bullets: [
+          "USD settlement: simpler but supplier may push for price adjustment if RMB strengthens.",
+          "RMB settlement via CIPS: faster and cheaper wire, but you take full FX risk.",
+          "Agree in advance which currency and rate basis the quote uses."
+        ],
+        takeaway: "The settlement currency determines who carries the exchange rate risk."
+      },
+      {
+        title: "Practical hedging for small importers",
+        paragraphs: [
+          "Wall Street hedging products — futures, options, swaps — are designed for large corporations with treasury departments. For small importers doing $50K-$2M annually, the cost and complexity of financial hedging usually outweigh the benefit.",
+          "The most practical hedge for small importers is operational: negotiate pricing in USD with a defined validity period (30-60 days), build a 3-5% currency buffer into your target margin, and consider using a multi-currency business account that lets you hold USD and convert at favorable rates.",
+          "Forward contracts from banks are available for smaller amounts than most importers assume. Many banks will offer a 3-month forward for as little as $10,000. The cost is typically the interest rate differential between USD and RMB, which has been narrow in 2025-2026."
+        ],
+        bullets: [
+          "Build a 3-5% currency buffer into your target margin.",
+          "Use 30-60 day pricing validity to lock in the quote rate.",
+          "Ask your bank about forward contracts starting from $10,000.",
+          "Consider multi-currency accounts to control conversion timing."
+        ],
+        takeaway: "Operational hedging — margin buffers, fixed validity, and multi-currency accounts — is more practical than financial hedging for small importers."
       }
     ]
   }

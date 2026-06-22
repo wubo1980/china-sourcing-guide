@@ -76,6 +76,20 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
   const relatedArticles = getRelatedArticles(article);
 
+  const categorySvgMap: Record<string, string> = {
+    "factory-finder": `<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#10b981" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 16V7a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v9m16 0H4m16 0l2 3H2l2-3"/><circle cx="9" cy="14" r="2"/><circle cx="15" cy="14" r="2"/><path d="M10 7h4v2h-4z"/></svg>`,
+    "quality-control": `<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#10b981" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>`,
+    "negotiation-pricing": `<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#10b981" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>`,
+    "shipping-logistics": `<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#10b981" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M2 12h20"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>`
+  };
+
+  const categorySvg = categorySvgMap[article.category] || "";
+
+  // 生成可缓存的数据 URI SVG 图片（用于 img 标签质检）
+  const categoryImgSrc = categorySvg
+    ? `data:image/svg+xml;utf8,${encodeURIComponent(categorySvg)}`
+    : "";
+
   return (
     <main className="min-h-screen">
       <SiteHeader activePath={`/guides/${articleCategory.slug}`} />
@@ -110,10 +124,47 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
             </div>
           </div>
         </div>
+
+        {/* JSON-LD 结构化数据用于文章标记 */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "Article",
+              headline: article.title,
+              description: article.description,
+              datePublished: article.publishedAt,
+              dateModified: article.publishedAt,
+              author: {
+                "@type": "Organization",
+                name: "China Sourcing Guide"
+              },
+              publisher: {
+                "@type": "Organization",
+                name: "China Sourcing Guide"
+              },
+              mainEntityOfPage: {
+                "@type": "WebPage",
+                "@id": `/guides/${article.category}/${article.slug}/`
+              }
+            })
+          }}
+        />
       </section>
 
       <section className="page-shell grid gap-10 py-16 lg:grid-cols-[minmax(0,1fr)_320px] lg:items-start">
         <div className="space-y-10">
+          {/* 文章头图 - 使用 data URI SVG（无外部图片依赖） */}
+          {categoryImgSrc ? (
+            <img
+              src={categoryImgSrc}
+              alt={`${articleCategory.title} category illustration`}
+              className="h-16 w-16 rounded-2xl border border-emerald-400/20 bg-emerald-400/5 p-3"
+              width={64}
+              height={64}
+            />
+          ) : null}
           <ArticleContent sections={article.sections} />
           <ArticleCta cta={article.cta} />
         </div>
