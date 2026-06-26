@@ -1032,4 +1032,166 @@ export const articles: Article[] = [
       }
     ]
   }
+
+  {
+    slug: "complete-sample-ordering-guide-china-2026",
+    category: "factory-finder",
+    title: "Complete Sample Ordering Guide for China Sourcing (2026)",
+    description:
+      "A practical guide to ordering, evaluating, and managing samples from Chinese suppliers. Covers sample types, payment, evaluation criteria, and common traps.",
+    publishedAt: "2026-06-26",
+    readingTime: 11,
+    tags: ["Samples", "Supplier Vetting", "Quality Control", "Pre-Production"],
+    cta: defaultCta,
+    sections: [
+      {
+        title: "Why samples matter more than most buyers realize",
+        paragraphs: [
+          "Samples are the first real test of whether a supplier can deliver what they promise. A well-managed sample process reveals production quality, communication reliability, and attention to detail before any large commitment. Skipping or rushing this step is the most common avoidable mistake in China sourcing.",
+          "Good buyers use samples to answer three questions: can the supplier reproduce the specified quality, can they communicate specification changes clearly, and does the product meet the performance and compliance requirements for your market. Each question requires a different type of sample at a different stage of the process."
+        ],
+        bullets: [
+          "The sample step is not a formality. It is the lowest-cost opportunity to discover problems.",
+          "Use samples to evaluate the supplier team, not just the product.",
+          "Document every sample request, spec change, and evaluation result for future reference."
+        ],
+        takeaway: "Samples are your cheapest insurance policy. Use them deliberately."
+      },
+      {
+        title: "Four types of samples and when to use each",
+        paragraphs: [
+          "Stock samples are existing products the supplier already produces. They ship fastest and cost least, but they only tell you whether the supplier can make something they already know how to make. Use stock samples for an initial quality benchmark and to evaluate packaging and finish.",
+          "Custom samples are made to your specifications. They take longer (1-3 weeks typical) and cost more, but they test the supplier's ability to follow your requirements. This is the most important sample type for product-based importers.",
+          "Pre-production samples are made from the same production line setup that will run your order. They confirm that the factory has dialed in materials, tooling, and assembly before mass production begins. Never skip this step for custom products.",
+          "Production samples are pulled from the actual production batch. They catch last-minute drift caused by material substitutions, worker turnover, or tooling wear. A reliable supplier will send production samples without being asked during the first 10-20% of production."
+        ],
+        bullets: [
+          "Stock samples: fast, cheap, limited insight. Use for initial vetting.",
+          "Custom samples: essential for custom products. Test spec compliance.",
+          "Pre-production samples: the most critical checkpoint. Never skip.",
+          "Production samples: catch last-minute drift. Expect them from good suppliers."
+        ],
+        takeaway: "Each sample type tests a different risk. Plan for all four."
+      },
+      {
+        title: "Sample costs, payment, and lead times",
+        paragraphs: [
+          "Sample costs vary widely by product complexity. Simple stock samples may cost $20-50 plus shipping. Custom samples for injection molding or electronics can run $200-1,000 or more. A supplier that asks you to pay full product price plus high mold fees for a simple modification may signal that they prefer production orders over sample work.",
+          "Most suppliers will ask you to cover sample cost and shipping. This is standard practice. Some will refund the sample cost if you place a production order. Always ask about refund policy before paying, and get it in writing.",
+          "Sample lead times depend on complexity. Stock samples ship in 3-7 days. Custom samples take 1-3 weeks. Pre-production samples should align with your production timeline. Build sample time into your overall sourcing calendar, especially for seasonal products."
+        ],
+        takeaway: "Sample cost transparency is a useful supplier quality signal."
+      },
+      {
+        title: "How to evaluate samples properly",
+        paragraphs: [
+          "Evaluating a sample is not about whether it looks good on first inspection. Build a structured checklist covering appearance (finish, color match, assembly fit), functionality (does it work as designed), and compliance (material safety, labeling, packaging requirements for your market).",
+          "Take photos and measurements against your specification sheet. Document every deviation, even if it seems minor. A small difference in material thickness or finish quality can become a major issue at production scale.",
+          "Ask the supplier to explain any deviations before you accept or reject. Some changes may be intentional improvements based on their manufacturing experience. Others may be cost-cutting shortcuts. The supplier's explanation tells you as much about their integrity as the sample itself."
+        ],
+        bullets: [
+          "Use a structured checklist: appearance, functionality, compliance.",
+          "Photograph and measure against spec. Document all deviations.",
+          "Ask suppliers to explain changes before accepting or rejecting."
+        ],
+        takeaway: "A thorough sample evaluation prevents costly production surprises."
+      },
+      {
+        title: "Common sample traps and how to avoid them",
+        paragraphs: [
+          "The masterpiece sample is made with extra care by senior workers to look better than what mass production will deliver. Guard against it by asking for video of the sample being made or requesting production-line samples, not lab samples.",
+          "Spec creep happens when verbal changes during sample review are not documented. Every specification change must be confirmed in writing, with the supplier confirming they understand the new requirement and its cost and timeline impact.",
+          "The free sample delay occurs when a supplier offers free samples but keeps delaying shipment. This often signals low interest in your order or capacity issues. Set a clear deadline and move on if it is not met."
+        ],
+        takeaway: "Documented processes prevent the most common sample failures."
+      }
+    ]
+  },
+  {
+    slug: "intellectual-property-protection-china-manufacturing-2026",
+    category: "negotiation-pricing",
+    title: "Intellectual Property Protection Guide for China Manufacturing (2026)",
+    description:
+      "Protect your product designs, trademarks, and patents when manufacturing in China. Covers registration, contracts, NDAs, and enforcement strategies for importers.",
+    publishedAt: "2026-06-26",
+    readingTime: 13,
+    tags: ["IP Protection", "Trademark", "Patent", "Contracts", "NDA"],
+    cta: defaultCta,
+    sections: [
+      {
+        title: "The real landscape of IP protection in China",
+        paragraphs: [
+          "China's IP protection framework has improved significantly in the past decade. The country now has dedicated IP courts, streamlined trademark registration, and stronger enforcement for registered rights. The risk for importers is not that the system does not work. It is that many buyers fail to use the tools available to them.",
+          "The most important principle is that IP rights in China are territorial. A US trademark or patent offers no protection in China. You must register your rights with the China National Intellectual Property Administration (CNIPA) to be protected. Registration before you approach manufacturers is the single most effective step you can take."
+        ],
+        bullets: [
+          "Chinese courts now handle tens of thousands of IP cases annually with improving efficiency.",
+          "Your home-country IP registration provides zero protection in China.",
+          "Register before you share designs with potential suppliers.",
+          "CNIPA registration takes 6-12 months for trademarks, 2-4 years for patents."
+        ],
+        takeaway: "Register in China before you start talking to suppliers. This is non-negotiable."
+      },
+      {
+        title: "Trademark protection: the most practical first step",
+        paragraphs: [
+          "Trademark registration in China is the most cost-effective IP protection for most importers. A registered trademark gives you the legal right to prevent others from using your brand name or logo on similar products. The process takes 6-12 months and costs approximately $300-600 per class through a qualified IP agent.",
+          "China operates a first-to-file system, not first-to-use. This means the first person to register a trademark owns it, regardless of who used it first. This creates a significant risk for brands that delay registration. Trademark squatting is a well-documented problem where local entities register foreign brand names and demand payment for their use.",
+          "Work with a qualified China IP attorney or agent to search existing registrations and file your application. The CNIPA website allows online filing, but the process requires Chinese-language documentation and familiarity with local classification systems."
+        ],
+        bullets: [
+          "File before you engage with any potential manufacturer.",
+          "Use a qualified China IP attorney, not a DIY approach or a general lawyer.",
+          "Monitor CNIPA for potential conflicts after registration.",
+          "Register in both Latin characters and Chinese characters for full protection."
+        ],
+        takeaway: "A $500 trademark registration is the best IP investment most importers can make."
+      },
+      {
+        title: "Patent protection for product designs",
+        paragraphs: [
+          "China offers three types of patent protection: invention patents (20-year term, for novel technical solutions), utility model patents (10-year term, for product structure innovations, registered without substantive examination), and design patents (15-year term, for product appearance). For most consumer product importers, design patents and utility models are the most relevant.",
+          "Design patents protect the visual appearance of your product. They are relatively quick to obtain (6-12 months) and inexpensive compared to invention patents. Utility models protect the functional structure and are granted even faster (3-6 months) because they undergo only formal examination, not substantive review.",
+          "Invention patents are harder to obtain in China than in the US or Europe, and enforcement is more limited. If your product involves genuine technical innovation, file an invention patent application before sharing technical details with any manufacturer, and consider filing simultaneously in China and your home market."
+        ],
+        takeaways: [
+          "Design patents are the most practical option for most consumer products.",
+          "Utility models offer fast protection for structural innovations.",
+          "File before sharing technical specifications with any supplier.",
+          "Consider simultaneous filing in China and your home jurisdiction."
+        ],
+        takeaway: "Match your patent strategy to your product type and commercial timeline."
+      },
+      {
+        title: "Contracts, NDAs, and confidentiality agreements",
+        paragraphs: [
+          "NDAs are useful as a documentation tool and a signal of seriousness, but they have limited practical enforcement value in China against determined infringement. The better approach is to compartmentalize your IP: share only what is necessary at each production stage, use separate suppliers for key components, and register your essential IP before any disclosure.",
+          "Your manufacturing agreement should include clear IP ownership clauses, confidentiality obligations, non-compete restrictions (where legally enforceable), and consequences for unauthorized use. A well-drafted contract does not prevent infringement, but it establishes the legal framework for enforcement if problems arise.",
+          "Quality contracts include specific language about returned tooling, molds, and dies; prohibition of unauthorized reproduction; limitation on using your designs for other buyers; and rights to inspect facilities for compliance. These clauses turn a generic manufacturing agreement into an IP protection tool."
+        ],
+        bullets: [
+          "NDAs are a tool, not a shield. Do not rely on them alone.",
+          "Compartmentalize: share only what is necessary at each stage.",
+          "Use separate suppliers for critical or novel components.",
+          "Include mold return, non-reproduction, and inspection clauses in contracts."
+        ],
+        takeaway: "NDAs document intent. Contracts establish enforcement frameworks. Neither replaces registration."
+      },
+      {
+        title: "Enforcement options if infringement occurs",
+        paragraphs: [
+          "If you discover IP infringement in China, you have several enforcement options. The most common are administrative complaints to local market regulation bureaus (fastest, lowest cost, but limited to stopping production and seizing goods), civil litigation through specialized IP courts (for damages and injunctions, but slower and more expensive), and customs recordal to block infringing goods at the border.",
+          "Customs recordal is underutilized by foreign companies. Once your IP is registered with CNIPA, you can record it with China Customs, who will actively monitor exports for potential infringement. This is particularly effective for products manufactured in China for export to your market.",
+          "The cost and complexity of enforcement depend heavily on whether your IP is registered. Unregistered rights are extremely difficult to enforce. Registered rights give you access to administrative enforcement, which can stop production within weeks at relatively low cost."
+        ],
+        bullets: [
+          "Administrative enforcement is fastest but limited to stopping production.",
+          "Civil litigation can award damages but takes 6-18 months.",
+          "Customs recordal blocks infringing goods at the border.",
+          "All enforcement options depend on having registered IP rights."
+        ],
+        takeaway: "Enforcement is possible and improving, but it still depends on having registered rights first."
+      }
+    ]
+  },
 ];
