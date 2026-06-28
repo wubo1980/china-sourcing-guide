@@ -1194,4 +1194,217 @@ export const articles: Article[] = [
       }
     ]
   },
+
+  {
+    slug: "fba-prep-qc-guide-china-2026",
+    category: "quality-control",
+    title: "FBA Prep QC Guide: Inspection Checklist for Amazon Sellers Sourcing from China",
+    description:
+      "A complete FBA prep QC guide for Amazon sellers sourcing from China. Covers prep requirements, inspection checklist, common mistakes, and how to catch issues before they reach the warehouse.",
+    publishedAt: "2026-06-28",
+    readingTime: 12,
+    tags: ["FBA", "Amazon", "QC Checklist", "Prep Requirements", "Inspection"],
+    cta: defaultCta,
+    sections: [
+      {
+        title: "Why FBA prep QC is different from standard import QC",
+        paragraphs: [
+          "FBA prep QC is not the same as general import quality control. Amazon has specific packaging, labeling, and preparation requirements that standard factory QC workflows do not cover. A product that passes general QC can still get rejected at the Amazon fulfillment center if the prep is wrong.",
+          "The difference matters because FBA rejection is expensive. You pay for return shipping, restocking fees, and lost selling time. A rejected shipment that costs $5,000 in freight can end up costing $8,000 by the time it is sorted, returned, and re-shipped.",
+          "FBA prep QC must cover three areas: product quality (does it meet your spec?), packaging compliance (does it meet Amazon FBA requirements?), and shipment readiness (are labels, case packs, and documents correct?). A standard QC inspection checks the first area but often misses the second and third."
+        ],
+        bullets: [
+          "Amazon FBA prep requirements cover packaging, labeling, and product safety standards.",
+          "Standard factory QC does not verify FBA-specific requirements.",
+          "A rejected FBA shipment costs 50-100% of the original freight value in return and rework."
+        ],
+        takeaway: "FBA prep QC is a specialized layer on top of standard QC. Do not treat them as interchangeable."
+      },
+      {
+        title: "Amazon FBA prep requirements at a glance",
+        paragraphs: [
+          "Amazon FBA prep requirements are documented in Seller Central. The core rules cover poly bagging (bags must be at least 1.5 mil thick and have suffocation warnings), bubble wrapping (fragile items must have at least 2 inches of cushioning on all sides), case pack requirements (each case must have a unique FBA label and should not exceed 50 lbs), and expiry dating (products with expiration dates must have the date printed in at least 36pt font on the outside of the case).",
+          "For Chinese imports, the most common FBA prep violations are incorrect labels (UPC/GTIN vs FNSKU mismatch), improper poly bag thickness, missing suffocation warnings, and incorrect case pack labels. These are easy for the factory to fix once they are included in the QC checklist.",
+          "The prep requirements differ by product category. Commingled vs stickered inventory choices, adult vs children product rules, and hazmat classification all change what is needed. Importers should review the Amazon FBA requirements page for their specific product category before finalizing the QC checklist."
+        ],
+        bullets: [
+          "Core rules: poly bag above 1.5 mil, suffocation warnings, bubble wrap above 2 inches, case weight under 50 lbs.",
+          "Label rules: FNSKU labels must cover any existing UPC/GTIN barcodes.",
+          "Expiry dating: 36pt font minimum on case exterior.",
+          "Category-specific rules apply. Check Seller Central for your product type."
+        ],
+        takeaway: "FBA prep requirements are well documented. Print the Amazon checklist and hand it to your QC inspector before every shipment."
+      },
+      {
+        title: "Building an FBA prep QC checklist for your China supplier",
+        paragraphs: [
+          "An effective FBA prep QC checklist has three sections. Section one covers product quality: dimensions, materials, finish, functionality, and color accuracy against the approved sample. Section two covers packaging compliance: poly bag thickness, label placement, case pack configuration, and suffocation warning presence. Section three covers documentation: FBA shipment ID, tracking numbers, delivery window confirmation, and customs paperwork.",
+          "Share the checklist with the factory at least two weeks before the production date. This gives them time to prepare materials (correct poly bags, proper labels, etc.) and train workers on the specific requirement if it differs from their usual workflow.",
+          "The inspection should happen in two stages. Stage one is during-production or at final inspection before the shipment goes to the FBA warehouse. Stage two is at the freight forwarder consolidation facility after packing but before container loading. This second stage catches label swaps, missing case packs, and packaging damage that happened during consolidation."
+        ],
+        bullets: [
+          "Three-section checklist: product quality / packaging compliance / documentation.",
+          "Share the checklist with the factory 2 weeks before production starts.",
+          "Two inspection stages: at factory before consolidation, and at forwarder before container loading."
+        ],
+        takeaway: "A structured checklist shared early prevents most FBA prep rejections."
+      },
+      {
+        title: "Common FBA prep QC failures and how to prevent them",
+        paragraphs: [
+          "The top five FBA prep QC failures for China imports are: (1) wrong labels - the factory uses the UPC barcode instead of the FNSKU barcode that Amazon assigns; (2) insufficient poly bag thickness - factory uses standard 0.8 mil bags instead of the required 1.5 mil; (3) missing suffocation warnings - factories in China do not use these by default and forget to add them; (4) case packs too heavy - workers overpack boxes beyond the 50 lb limit; and (5) incorrect shipment plan - the products arrive at the wrong Amazon fulfillment center for the seller active plan.",
+          "Each of these is preventable with a good QC process. Label issues are solved by including a label placement diagram in the work order. Poly bag issues are solved by sourcing the correct bags from the factory or supplying them directly. Suffocation warnings are solved by adding them to the packaging spec and checking them at inspection. Weight issues are solved by setting a maximum units-per-case rule. Shipment plan issues are solved by confirming delivery address and window before the container departs."
+        ],
+        bullets: [
+          "Top 5 failures: wrong labels, thin bags, missing warnings, heavy cases, wrong address.",
+          "Each failure has a simple preventive control. Document them in the production work order.",
+          "Include label diagrams and packaging spec sheets in the factory instructions."
+        ],
+        takeaway: "The most common FBA prep failures are simple to fix. The key is including them in the QC checklist before production, not after."
+      }
+    ]
+  },
+  {
+    slug: "amazon-fba-shipping-from-china-guide",
+    category: "shipping-logistics",
+    title: "Amazon FBA Shipping from China: A Complete 2026 Guide",
+    description:
+      "Everything Amazon sellers need to know about shipping from China to FBA warehouses. Compare sea, air, and express options, understand FBA shipment requirements, and avoid common delays.",
+    publishedAt: "2026-06-28",
+    readingTime: 13,
+    tags: ["FBA", "Amazon", "Shipping", "Sea Freight", "Air Freight", "Logistics"],
+    cta: defaultCta,
+    sections: [
+      {
+        title: "FBA shipping options from China: sea, air, and express compared",
+        paragraphs: [
+          "Amazon sellers sourcing from China have three main shipping options: sea freight (LCL or FCL), air freight, and express courier (DHL, FedEx, UPS). The right choice depends on your product dimensions, order urgency, and budget per unit.",
+          "Sea freight LCL (less than container load) is the most common option for mid-size sellers shipping 2-20 CBM. Cost averages $15-25 per CBM for the ocean leg, plus origin charges ($50-150), destination charges ($200-500), and customs clearance fees ($150-300). Total cost for a 5 CBM shipment is typically $900-1,500. Transit time is 25-35 days from factory to FBA warehouse.",
+          "Air freight costs $4-8 per kg but transit time drops to 5-10 days. It makes sense for high-value, low-weight products or urgent restocks. A 100 kg air shipment costs $400-800 in freight. Express courier costs $6-12 per kg with 3-7 day transit, ideal for small test orders and urgent replenishment.",
+          "FCL (full container load) is for sellers shipping 25+ CBM per order. A 20-foot container costs $1,800-3,000 from China to the US West Coast, plus origin and destination charges. The per-unit cost is lowest but requires larger inventory commitment."
+        ],
+        bullets: [
+          "Sea LCL: $900-1,500 for 5 CBM, 25-35 days. Best for standard inventory restocks.",
+          "Air freight: $4-8/kg, 5-10 days. Best for high-value or urgent products.",
+          "Express courier: $6-12/kg, 3-7 days. Best for samples and small test orders.",
+          "FCL: $1,800-3,000 per 20ft container. Best for high-volume stable products."
+        ],
+        takeaway: "Match your shipping mode to your product weight-to-value ratio and restock urgency, not to what feels standard."
+      },
+      {
+        title: "FBA shipment creation and delivery window management",
+        paragraphs: [
+          "Amazon requires sellers to create an FBA shipment in Seller Central before sending inventory. The shipment creation process generates a unique shipment ID, FNSKU labels for each unit, and case pack labels. The shipment must be delivered to the assigned fulfillment center within the specified delivery window.",
+          "A common mistake is creating the FBA shipment too early or too late. Create the shipment when the production timeline is confirmed, not when the container is already on the water. An early shipment that arrives outside the delivery window can be refused. A late shipment that misses the window can result in product unavailability during peak sales periods.",
+          "Amazon delivery window is typically 45-90 days from shipment creation for sea freight. For air freight and express, the window is shorter (14-30 days). Always add a 7-10 day buffer to account for port delays, customs holds, and inland transportation variability."
+        ],
+        bullets: [
+          "Create the FBA shipment only after production timeline is confirmed.",
+          "Window for sea: 45-90 days. Add 7-10 day buffer.",
+          "Window for air/express: 14-30 days. Tight timing requires good coordination."
+        ],
+        takeaway: "Shipment window management is a coordination problem between production, logistics, and Amazon calendar. Treat it as a single timeline, not three separate schedules."
+      },
+      {
+        title: "Customs clearance for FBA shipments from China",
+        paragraphs: [
+          "FBA shipments from China require the same customs clearance process as any commercial import: correct HS code classification, commercial invoice, packing list, and customs bond. The difference is that FBA shipments are consigned to Amazon as the receiver, which creates specific documentation requirements.",
+          "The commercial invoice must list Amazon as the ship-to party and include the FBA shipment ID and fulfillment center address. Some carriers require a letter of authorization from the seller confirming that Amazon is authorized to receive the goods on their behalf. Work with a freight forwarder experienced in FBA shipments to get the documentation right.",
+          "For high-value FBA shipments, consider using a customs broker licensed in the destination port state. The broker will handle ISF (Importer Security Filing), customs entry, duty payment, and any FDA or CPSC requirements for regulated products. This adds $150-300 to the total cost but prevents costly clearance delays.",
+          "Refer to our US Customs Clearance guide and US-China Tariffs 2026 article for detailed classification and duty estimation workflows. The current tariff stack (MFN plus Section 301 plus IEEPA plus reciprocal) pushes average rates to roughly 33%, so budget accordingly."
+        ],
+        bullets: [
+          "FBA shipments need standard customs plus FBA-specific documentation.",
+          "List Amazon as consignee and include FBA shipment ID on commercial invoice.",
+          "Use an FBA-experienced freight forwarder or customs broker to prevent clearance delays.",
+          "Budget for 33% average tariffs on Chinese goods in 2026."
+        ],
+        takeaway: "Customs clearance for FBA is standard process plus FBA-specific paperwork. Do not skip the broker if your product category is regulated."
+      },
+      {
+        title: "Choosing the right FBA freight forwarder",
+        paragraphs: [
+          "Not all freight forwarders handle FBA shipments well. A good FBA forwarder offers three services a general forwarder may not: FBA label generation and application (if the factory cannot do it), consolidation of multiple supplier shipments into one FBA container, and delivery appointment coordination with Amazon fulfillment centers.",
+          "When vetting forwarders, ask three questions. One: how many FBA shipments did you handle last month? Two: do you offer label check service before container loading? Three: what is your process for scheduling delivery appointments at Amazon fulfillment centers? If the answer to any of these is vague, keep looking.",
+          "Forwarder fees for FBA shipments are typically $200-500 for documentation and customs handling, plus $50-100 per additional service (label check, appointment scheduling, damage inspection). These fees are a small fraction of the cost of a rejected or delayed FBA shipment."
+        ],
+        bullets: [
+          "Good FBA forwarders: label services, consolidation, appointment coordination.",
+          "Vetting questions: FBA volume, label check process, appointment scheduling.",
+          "FBA forwarder fees: $200-500 base plus $50-100 per extra service."
+        ],
+        takeaway: "The right forwarder saves more in prevented problems than they cost in fees. Choose based on FBA experience, not price."
+      }
+    ]
+  },
+  {
+    slug: "cost-breakdown-china-manufacturing-importers-guide",
+    category: "negotiation-pricing",
+    title: "Cost Breakdown for China Manufacturing: Understand Factory Pricing",
+    description:
+      "Learn to read a Chinese factory cost breakdown. Understand material, labor, tooling, overhead, and margin components so you can negotiate with data instead of guesswork.",
+    publishedAt: "2026-06-28",
+    readingTime: 10,
+    tags: ["Cost Breakdown", "Pricing", "Negotiation", "Supplier", "Manufacturing"],
+    cta: defaultCta,
+    sections: [
+      {
+        title: "Why the sticker price is not the real price",
+        paragraphs: [
+          "When a Chinese supplier sends you a unit price, it is an aggregate of raw materials, labor, overhead, tooling amortization, packaging, logistics margin, and profit. Understanding the components lets you negotiate each line instead of just asking for a discount on the total.",
+          "Most buyers make the mistake of negotiating price without understanding cost. They ask for 10% off and the supplier agrees by cutting margin on a component they had no intention of maintaining. Six months later, quality drops because the factory switched to cheaper raw materials to keep their margin.",
+          "The goal of cost breakdown analysis is to identify which cost components are negotiable (labor inefficiency, overhead allocation, packaging choices), which are fixed (raw material market price, regulatory compliance), and which are deliberately hidden (tooling amortization, quality control charges). Armed with this map, you negotiate with precision instead of bluffing."
+        ],
+        bullets: [
+          "Unit price = materials + labor + overhead + tooling + packaging + logistics + profit.",
+          "Negotiate components, not the total. A blanket discount hides quality risk.",
+          "Map costs into negotiable, fixed, and hidden before starting price talks."
+        ],
+        takeaway: "Price negotiation without cost understanding is gambling. Always request and analyze a cost breakdown."
+      },
+      {
+        title: "Raw materials: the component you cannot bluff",
+        paragraphs: [
+          "Raw materials make up 40-70% of total product cost for most manufactured goods. This component is largely market-driven and not subject to negotiation. The supplier pays what the market charges for steel, plastic resin, electronics components, or fabric.",
+          "What you can influence is material grade and sourcing. If the quote uses premium-grade stainless steel but your market does not require it, ask for a quote using standard-grade material. If the fabric is sourced from a high-cost domestic supplier, ask if imported alternatives are available.",
+          "When requesting a cost breakdown, ask the supplier to specify the raw material grade, quantity per unit, and unit cost. Then benchmark against public market prices from sources like the London Metal Exchange (for metals) or Plastics News (for resin). A significant markup suggests the supplier either has inefficient sourcing or is inflating this line as a margin buffer."
+        ],
+        bullets: [
+          "Materials = 40-70% of cost. Market driven, not negotiable on the same spec.",
+          "Negotiate material grade, not material price. Ask for alternative spec quotes.",
+          "Benchmark raw material pricing against public indices to spot markup."
+        ],
+        takeaway: "You cannot negotiate raw material market price, but you can negotiate grade, source, and specification."
+      },
+      {
+        title: "Labor and overhead: where the real negotiation lives",
+        paragraphs: [
+          "Labor costs in manufacturing vary dramatically by region within China. Coastal factories (Guangdong, Zhejiang, Jiangsu) pay 20-40% higher wages than inland factories (Sichuan, Henan, Anhui). A cost breakdown that does not specify where the factory is located may hide this variability.",
+          "Overhead includes factory rent, utilities, equipment maintenance, management salaries, and quality control staff. This is typically 15-25% of the unit cost. Some suppliers inflate overhead when they have excess capacity to make up for idle production lines.",
+          "Ask specific questions about labor: how many workers per production line, what is the daily output per line, and what is the hourly wage rate. Compare the implied labor cost per unit against regional averages. A significant gap may indicate inefficient production or hidden margin padding in the labor cost line."
+        ],
+        bullets: [
+          "Coastal vs inland labor: 20-40% difference. Location matters.",
+          "Overhead = 15-25% of unit cost. Inflated when factory has idle capacity.",
+          "Implied labor efficiency (workers per unit) reveals production competence."
+        ],
+        takeaway: "Labor and overhead are the most negotiated components. Ask for details and benchmark against regional data."
+      },
+      {
+        title: "Tooling amortization, packaging, and hidden costs",
+        paragraphs: [
+          "Tooling and mold costs are often listed separately or silently buried in the unit price. A mold that costs $5,000 amortized over 500 units adds $10 per unit. Over 10,000 units it adds $0.50. If the supplier does not specify the amortization period, you may be paying for tooling that has already been fully recovered.",
+          "Packaging is another frequently inflated line. A simple product box from a Chinese packaging supplier costs $0.20-0.80. If the cost breakdown shows $1.50 or more, the supplier is either using premium packaging or adding margin. Ask for a packaging cost breakdown separately.",
+          "Hidden costs include quality control charges (inspections, certifications), testing fees (lab testing for compliance), and administrative fees (documentation, shipping coordination). These are often bundled into the total but should be itemized. A transparent supplier provides a clear list. A supplier that resists itemization is usually hiding something."
+        ],
+        bullets: [
+          "Tooling amortization: verify the expected volume and check if mold costs are already covered.",
+          "Packaging: ask for a separate packaging cost breakdown. Boxes cost $0.20-0.80.",
+          "Hidden costs: QC, testing, and admin fees should be itemized on the quote."
+        ],
+        takeaway: "Hidden costs add 10-20% to the invoice total. Itemized cost breakdowns prevent surprises and give you specific negotiation points."
+      }
+    ]
+  }
+
 ];
