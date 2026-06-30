@@ -24,8 +24,8 @@ export const metadata: Metadata = {
     description:
       "A practical guide to finding factories, negotiating deals, quality control, shipping, and customs when sourcing from China."
   }),
-  other: {
-    "google-site-verification": "N21K5VoxWUyIIwGf5NZjvhvU2Ty_JC2EoVhMWPL-iro"
+  verification: {
+    google: "N21K5VoxWUyIIwGf5NZjvhvU2Ty_JC2EoVhMWPL-iro"
   }
 };
 
