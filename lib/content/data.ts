@@ -1031,7 +1031,7 @@ export const articles: Article[] = [
         takeaway: "Operational hedging — margin buffers, fixed validity, and multi-currency accounts — is more practical than financial hedging for small importers."
       }
     ]
-  }
+  },
 
   {
     slug: "complete-sample-ordering-guide-china-2026",
@@ -1153,12 +1153,6 @@ export const articles: Article[] = [
           "China offers three types of patent protection: invention patents (20-year term, for novel technical solutions), utility model patents (10-year term, for product structure innovations, registered without substantive examination), and design patents (15-year term, for product appearance). For most consumer product importers, design patents and utility models are the most relevant.",
           "Design patents protect the visual appearance of your product. They are relatively quick to obtain (6-12 months) and inexpensive compared to invention patents. Utility models protect the functional structure and are granted even faster (3-6 months) because they undergo only formal examination, not substantive review.",
           "Invention patents are harder to obtain in China than in the US or Europe, and enforcement is more limited. If your product involves genuine technical innovation, file an invention patent application before sharing technical details with any manufacturer, and consider filing simultaneously in China and your home market."
-        ],
-        takeaways: [
-          "Design patents are the most practical option for most consumer products.",
-          "Utility models offer fast protection for structural innovations.",
-          "File before sharing technical specifications with any supplier.",
-          "Consider simultaneous filing in China and your home jurisdiction."
         ],
         takeaway: "Match your patent strategy to your product type and commercial timeline."
       },
