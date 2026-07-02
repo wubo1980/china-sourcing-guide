@@ -1,6 +1,6 @@
 import Script from "next/script";
 
-const GA_MEASUREMENT_ID = "G-8ZG0XNWBYW";
+const GA_MEASUREMENT_ID = "G-VFDC1ZCH9K";
 
 /**
  * 注入 Google Analytics（固定 GA4 ID）。
