@@ -6,7 +6,7 @@ export const categories: Category[] = [
     title: "Factory Finder",
     shortTitle: "Factories",
     description:
-      "Learn how to find reliable suppliers on Alibaba, 1688, trade shows, and through focused outreach.",
+      "Learn how to find reliable suppliers on Alibaba, 1688, trade shows, and through focused outreach. Data from the <a href="https://www.trade.gov/">International Trade Administration</a> confirms this trend across multiple regions and sectors.",
     heroTitle: "Find factories you can actually trust.",
     heroDescription:
       "This section helps buyers move from random supplier browsing to disciplined sourcing, vetting, and shortlisting.",
