@@ -85,9 +85,9 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
   const categorySvg = categorySvgMap[article.category] || "";
 
-  // 生成可缓存的数据 URI SVG 图片（用于 img 标签质检）
+  // 生成可缓存的数据 URI SVG 图片（base64 编码，兼容所有浏览器）
   const categoryImgSrc = categorySvg
-    ? `data:image/svg+xml;utf8,${encodeURIComponent(categorySvg)}`
+    ? `data:image/svg+xml;base64,${Buffer.from(categorySvg).toString("base64")}`
     : "";
 
   return (
