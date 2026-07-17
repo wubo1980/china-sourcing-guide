@@ -1,0 +1,91 @@
+{
+  "slug": "intellectual-property-protection-china-manufacturing-2026",
+  "category": "negotiation-pricing",
+  "title": "Intellectual Property Protection Guide for China Manufacturing (2026)",
+  "description": "Protect your product designs, trademarks, and patents when manufacturing in China. Covers registration, contracts, NDAs, and enforcement strategies for importers.",
+  "publishedAt": "2026-06-26",
+  "readingTime": 13,
+  "tags": [
+    "IP Protection",
+    "Trademark",
+    "Patent",
+    "Contracts",
+    "NDA"
+  ],
+  "cta": {
+    "title": "Get the importer toolkit",
+    "description": "Save your supplier shortlist, QC checklist, and negotiation notes in one place with a simple sourcing workflow toolkit.",
+    "label": "Join the waitlist",
+    "href": "#subscribe"
+  },
+  "sections": [
+    {
+      "title": "The real landscape of IP protection in China",
+      "paragraphs": [
+        "China's IP protection framework has improved significantly in the past decade. The country now has dedicated IP courts, streamlined trademark registration, and stronger enforcement for registered rights. The risk for importers is not that the system does not work. It is that many buyers fail to use the tools available to them.",
+        "The most important principle is that IP rights in China are territorial. A US trademark or patent offers no protection in China. You must register your rights with the China National Intellectual Property Administration (CNIPA) to be protected. Registration before you approach manufacturers is the single most effective step you can take."
+      ],
+      "bullets": [
+        "Chinese courts now handle tens of thousands of IP cases annually with improving efficiency.",
+        "Your home-country IP registration provides zero protection in China.",
+        "Register before you share designs with potential suppliers.",
+        "CNIPA registration takes 6-12 months for trademarks, 2-4 years for patents."
+      ],
+      "takeaway": "Register in China before you start talking to suppliers. This is non-negotiable."
+    },
+    {
+      "title": "Trademark protection: the most practical first step",
+      "paragraphs": [
+        "Trademark registration in China is the most cost-effective IP protection for most importers. A registered trademark gives you the legal right to prevent others from using your brand name or logo on similar products. The process takes 6-12 months and costs approximately $300-600 per class through a qualified IP agent.",
+        "China operates a first-to-file system, not first-to-use. This means the first person to register a trademark owns it, regardless of who used it first. This creates a significant risk for brands that delay registration. Trademark squatting is a well-documented problem where local entities register foreign brand names and demand payment for their use.",
+        "Work with a qualified China IP attorney or agent to search existing registrations and file your application. The CNIPA website allows online filing, but the process requires Chinese-language documentation and familiarity with local classification systems."
+      ],
+      "bullets": [
+        "File before you engage with any potential manufacturer.",
+        "Use a qualified China IP attorney, not a DIY approach or a general lawyer.",
+        "Monitor CNIPA for potential conflicts after registration.",
+        "Register in both Latin characters and Chinese characters for full protection."
+      ],
+      "takeaway": "A $500 trademark registration is the best IP investment most importers can make."
+    },
+    {
+      "title": "Patent protection for product designs",
+      "paragraphs": [
+        "China offers three types of patent protection: invention patents (20-year term, for novel technical solutions), utility model patents (10-year term, for product structure innovations, registered without substantive examination), and design patents (15-year term, for product appearance). For most consumer product importers, design patents and utility models are the most relevant.",
+        "Design patents protect the visual appearance of your product. They are relatively quick to obtain (6-12 months) and inexpensive compared to invention patents. Utility models protect the functional structure and are granted even faster (3-6 months) because they undergo only formal examination, not substantive review.",
+        "Invention patents are harder to obtain in China than in the US or Europe, and enforcement is more limited. If your product involves genuine technical innovation, file an invention patent application before sharing technical details with any manufacturer, and consider filing simultaneously in China and your home market."
+      ],
+      "takeaway": "Match your patent strategy to your product type and commercial timeline."
+    },
+    {
+      "title": "Contracts, NDAs, and confidentiality agreements",
+      "paragraphs": [
+        "NDAs are useful as a documentation tool and a signal of seriousness, but they have limited practical enforcement value in China against determined infringement. The better approach is to compartmentalize your IP: share only what is necessary at each production stage, use separate suppliers for key components, and register your essential IP before any disclosure.",
+        "Your manufacturing agreement should include clear IP ownership clauses, confidentiality obligations, non-compete restrictions (where legally enforceable), and consequences for unauthorized use. A well-drafted contract does not prevent infringement, but it establishes the legal framework for enforcement if problems arise.",
+        "Quality contracts include specific language about returned tooling, molds, and dies; prohibition of unauthorized reproduction; limitation on using your designs for other buyers; and rights to inspect facilities for compliance. These clauses turn a generic manufacturing agreement into an IP protection tool."
+      ],
+      "bullets": [
+        "NDAs are a tool, not a shield. Do not rely on them alone.",
+        "Compartmentalize: share only what is necessary at each stage.",
+        "Use separate suppliers for critical or novel components.",
+        "Include mold return, non-reproduction, and inspection clauses in contracts."
+      ],
+      "takeaway": "NDAs document intent. Contracts establish enforcement frameworks. Neither replaces registration."
+    },
+    {
+      "title": "Enforcement options if infringement occurs",
+      "paragraphs": [
+        "If you discover IP infringement in China, you have several enforcement options. The most common are administrative complaints to local market regulation bureaus (fastest, lowest cost, but limited to stopping production and seizing goods), civil litigation through specialized IP courts (for damages and injunctions, but slower and more expensive), and customs recordal to block infringing goods at the border.",
+        "Customs recordal is underutilized by foreign companies. Once your IP is registered with CNIPA, you can record it with China Customs, who will actively monitor exports for potential infringement. This is particularly effective for products manufactured in China for export to your market.",
+        "The cost and complexity of enforcement depend heavily on whether your IP is registered. Unregistered rights are extremely difficult to enforce. Registered rights give you access to administrative enforcement, which can stop production within weeks at relatively low cost."
+      ],
+      "bullets": [
+        "Administrative enforcement is fastest but limited to stopping production.",
+        "Civil litigation can award damages but takes 6-18 months.",
+        "Customs recordal blocks infringing goods at the border.",
+        "All enforcement options depend on having registered IP rights."
+      ],
+      "takeaway": "Enforcement is possible and improving, but it still depends on having registered rights first."
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "slug": "fob-vs-cif-vs-exw-shipping-terms-explained",
+  "category": "shipping-logistics",
+  "title": "FOB vs CIF vs EXW: Shipping Terms Explained for Importers",
+  "description": "Understand what FOB, CIF, and EXW really change in your freight cost, control, and operational risk.",
+  "publishedAt": "2026-02-16",
+  "readingTime": 8,
+  "tags": [
+    "Incoterms",
+    "FOB",
+    "CIF",
+    "EXW"
+  ],
+  "cta": {
+    "title": "Get the importer toolkit",
+    "description": "Save your supplier shortlist, QC checklist, and negotiation notes in one place with a simple sourcing workflow toolkit.",
+    "label": "Join the waitlist",
+    "href": "#subscribe"
+  },
+  "sections": [
+    {
+      "title": "What each term means operationally",
+      "paragraphs": [
+        "Incoterms do more than change a shipping line on a quote. They shift where responsibility, cost, and coordination move from the seller to the buyer. If you misunderstand the handoff point, you can lose both time and margin.",
+        "FOB, CIF, and EXW are often discussed as price choices, but they are really control choices tied to freight execution."
+      ],
+      "bullets": [
+        "Use EXW when you can manage pickup from the supplier door and want maximum control.",
+        "Use FOB when you want the seller to handle export-side delivery to port.",
+        "Use CIF when you prefer a bundled ocean freight quote but still need to watch downstream charges."
+      ],
+      "takeaway": "Incoterms define responsibility transfer, not just line-item pricing."
+    },
+    {
+      "title": "Cost comparison beyond the invoice",
+      "paragraphs": [
+        "A CIF quote can look convenient, but convenience may hide destination-side fees or weaker freight visibility. EXW may look cheapest at first and become more expensive once local pickup, export handling, and coordination costs are counted.",
+        "FOB often sits in the middle for importers who want supplier support at origin but still prefer to control freight through their own forwarder."
+      ],
+      "bullets": [
+        "Compare total landed cost, not just the supplier's freight term quote.",
+        "Ask your forwarder to price each option using the same shipment assumptions.",
+        "Review destination charges and handling fees before you decide."
+      ],
+      "takeaway": "The cheapest incoterm is the one with the clearest end-to-end cost."
+    },
+    {
+      "title": "When to choose which term",
+      "paragraphs": [
+        "Choose EXW if your logistics setup is strong and you want control from the supplier door. Choose FOB if you want a balanced handoff and clearer export-side responsibility. Choose CIF when simplicity matters and you trust the bundled freight arrangement enough to accept less control.",
+        "New importers often do better with FOB because it keeps the supplier responsible up to the export handoff without forcing the buyer to manage every local step in China."
+      ],
+      "bullets": [
+        "Use FOB as the default starting point for many first-time importers.",
+        "Use EXW when you already have a forwarder and origin coordination process.",
+        "Use CIF selectively and only after comparing destination-side fees."
+      ],
+      "takeaway": "Choose the term that fits your logistics maturity, not the one that sounds familiar."
+    },
+    {
+      "title": "Common mistakes importers make",
+      "paragraphs": [
+        "A common mistake is assuming the supplier's freight term quote includes every downstream charge. Another is accepting a term without knowing who books the shipment, who handles export paperwork, and when risk transfers.",
+        "These mistakes surface late, usually when the cargo is already moving and leverage is limited."
+      ],
+      "bullets": [
+        "Clarify who books freight, who pays local charges, and where risk transfers.",
+        "Ask for a full cost breakdown before approving the term.",
+        "Document the agreed incoterm in the purchase order and shipping instructions."
+      ],
+      "takeaway": "Incoterm confusion turns freight into margin leakage."
+    }
+  ]
+}

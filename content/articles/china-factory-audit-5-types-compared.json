@@ -1,0 +1,114 @@
+{
+  "slug": "china-factory-audit-5-types-compared",
+  "category": "quality-control",
+  "title": "China Factory Audit: 5 Types Compared",
+  "description": "Compare 5 China factory audit types: desk, product, process, social compliance, and full audit. Learn costs and find the right type for your import budget.",
+  "publishedAt": "2026-06-22",
+  "readingTime": 10,
+  "tags": [
+    "Factory Audit",
+    "Supplier Verification",
+    "QC",
+    "Inspection"
+  ],
+  "cta": {
+    "title": "Get the importer toolkit",
+    "description": "Save your supplier shortlist, QC checklist, and negotiation notes in one place with a simple sourcing workflow toolkit.",
+    "label": "Join the waitlist",
+    "href": "#subscribe"
+  },
+  "sections": [
+    {
+      "title": "Why audit type choice matters more than you think",
+      "paragraphs": [
+        "Ask five experienced China buyers what a factory audit is, and you will get five different answers. One means checking business licenses. Another means walking the production floor for a day. A third means inspecting the first batch off the line. They are all correct, but they are different audit types with different costs and outcomes.",
+        "Choosing the wrong audit type wastes money and gives false confidence. A desk audit cannot catch production problems. A full audit is overkill for a sample order. This guide breaks down the five common audit types so you can match the audit to your order risk and budget."
+      ],
+      "bullets": [
+        "Audit types are not interchangeable. Each answers a different question.",
+        "Over-auditing wastes budget. Under-auditing creates false confidence.",
+        "Match audit depth to order value, product complexity, and supplier history."
+      ],
+      "takeaway": "The right audit type depends on what you need to verify, not what sounds thorough."
+    },
+    {
+      "title": "Type 1: Desk audit (also called document audit)",
+      "paragraphs": [
+        "A desk audit verifies supplier documentation without visiting the factory. It checks business license, tax registration, export qualifications, trademark filings, and quality certifications like ISO 9001. The auditor reviews scanned documents and cross-checks them against public databases.",
+        "Cost ranges from $200 to $500. Turnaround is usually three to five business days. It is the cheapest audit type but also the least revealing. A supplier can pass a desk audit while having serious production problems."
+      ],
+      "bullets": [
+        "Use desk audits for initial screening before ordering samples.",
+        "Good for confirming the supplier legally exists and has relevant certifications.",
+        "Do not rely on a desk audit alone for anything beyond basic identity verification."
+      ],
+      "takeaway": "A desk audit checks paperwork, not capability. Use it as a gate, not a guarantee."
+    },
+    {
+      "title": "Type 2: Product audit (sample inspection)",
+      "paragraphs": [
+        "A product audit inspects the physical product against your specifications. It checks dimensions, materials, finish, packaging, and labeling. It answers a narrow question: does this product meet the spec?",
+        "Cost ranges from $300 to $800 per sample batch. This audit does not evaluate the factory's overall capability, only the specific item being inspected. Many buyers use this as their first real QC step after receiving samples."
+      ],
+      "bullets": [
+        "Use product audits to verify samples before approving production.",
+        "Works well when you already trust the factory and just need spec confirmation.",
+        "Does not tell you about the factory's capacity, process control, or working conditions."
+      ],
+      "takeaway": "A product audit checks what came out, not how it was made."
+    },
+    {
+      "title": "Type 3: Process audit (production line audit)",
+      "paragraphs": [
+        "A process audit evaluates how the factory makes the product. It examines equipment maintenance, worker training, quality checkpoints, material handling, and production records. This is where you catch process-level defects before they scale.",
+        "Cost ranges from $800 to $2,000 per audit. It typically takes a full day onsite. This is the most cost-effective audit for first production runs because it identifies systemic issues that product audits miss."
+      ],
+      "bullets": [
+        "Use process audits for first orders, new suppliers, or when QC results are inconsistent.",
+        "Ask the auditor to trace one unit through the full production line.",
+        "Request corrective action plans for every nonconformance found."
+      ],
+      "takeaway": "Process audits find root causes. Product audits find symptoms."
+    },
+    {
+      "title": "Type 4: Social compliance audit",
+      "paragraphs": [
+        "A social compliance audit checks working conditions, wages, working hours, health and safety, and labor rights. It matters if you sell to retailers that require ethical sourcing certification or if your brand positions itself on sustainability.",
+        "Cost ranges from $1,500 to $4,000 depending on factory size and audit standard (SMETA, BSCI, SEDEX, SA8000). The audit is typically unannounced or short-notice. Preparation can take the factory several weeks."
+      ],
+      "bullets": [
+        "Required if you sell to Walmart, Target, IKEA, or similar retailers.",
+        "Increasingly requested by European buyers and ESG-conscious brands.",
+        "Can delay production if the factory needs time to address findings."
+      ],
+      "takeaway": "Compliance audits are non-negotiable for certain buyers. Check your customer requirements before the order."
+    },
+    {
+      "title": "Type 5: Full factory audit (comprehensive)",
+      "paragraphs": [
+        "A full factory audit combines document review, product inspection, process evaluation, and compliance checks into one engagement. It gives the most complete picture but costs $3,000 to $6,000 and takes two to three days onsite.",
+        "Full audits make sense for large-volume suppliers, strategic partners, or when you are placing a high-value first order. They are usually overkill for small test orders or repeat suppliers with a proven track record."
+      ],
+      "bullets": [
+        "Reserve full audits for high-value, high-risk, or strategic suppliers.",
+        "Combine with quarterly or annual follow-up process audits for ongoing monitoring.",
+        "Do not use full audits as a routine check — they create fatigue for both buyer and supplier."
+      ],
+      "takeaway": "Full audits are a strategic investment, not a recurring expense."
+    },
+    {
+      "title": "The virtual audit trap in 2026",
+      "paragraphs": [
+        "Since 2025, a growing number of audit firms offer 'virtual audits' conducted through video calls, shared screens, and digital document review. While these can reduce travel costs, they introduce a new risk: staged environments.",
+        "Some suppliers set up a fake production line for the video call, showing equipment that is not actually connected or workers who are not regular employees. The 'virtual trap' has become common enough that experienced buyers treat video-only audits as unreliable for process verification.",
+        "If you must use a virtual audit, require real-time walkthrough with specific checkpoints (show the raw material storage area, show the QC station, show today's production log) rather than a scripted presentation."
+      ],
+      "bullets": [
+        "Virtual audits are acceptable for desk/document checks only.",
+        "Require real-time, unscripted walkthrough for any process verification.",
+        "Use a local third-party inspector for your first production audit — it is worth the cost."
+      ],
+      "takeaway": "If the factory only accepts a virtual audit, treat the results as low confidence."
+    }
+  ]
+}

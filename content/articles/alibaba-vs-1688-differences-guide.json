@@ -1,0 +1,74 @@
+{
+  "slug": "alibaba-vs-1688-differences-guide",
+  "category": "factory-finder",
+  "title": "Alibaba vs 1688: What's the Difference and Which Should You Use?",
+  "description": "Compare Alibaba and 1688 on pricing, access, sourcing workflow, and the role of local agents for overseas buyers.",
+  "publishedAt": "2026-01-18",
+  "readingTime": 9,
+  "tags": [
+    "Alibaba",
+    "1688",
+    "Pricing",
+    "Sourcing Agents"
+  ],
+  "cta": {
+    "title": "Get the importer toolkit",
+    "description": "Save your supplier shortlist, QC checklist, and negotiation notes in one place with a simple sourcing workflow toolkit.",
+    "label": "Join the waitlist",
+    "href": "#subscribe"
+  },
+  "sections": [
+    {
+      "title": "Why the prices look so different",
+      "paragraphs": [
+        "1688 usually shows lower prices because it primarily serves the domestic Chinese market. Product pages often assume local payment, local shipping, and buyers who can communicate in Chinese with little hand-holding.",
+        "Alibaba is built for international trade, so prices often include export-facing service, English communication, and smaller-batch buyer support. The sticker price may be higher, but the workflow can be easier for non-Chinese buyers."
+      ],
+      "bullets": [
+        "Use 1688 for deeper price discovery, not as a direct apples-to-apples quote.",
+        "Expect Alibaba quotes to reflect export support and account management.",
+        "Compare total landed workflow cost, not just the first visible unit price."
+      ],
+      "takeaway": "Lower listed prices only matter if you can execute the transaction smoothly."
+    },
+    {
+      "title": "Registration and access differences",
+      "paragraphs": [
+        "Alibaba is easier for overseas companies to access because the interface, payment logic, and supplier expectations already accommodate foreign buyers. 1688 is less friendly if you do not read Chinese or lack a local receiving setup.",
+        "That does not mean 1688 is off-limits. It means you need to plan for translation, payment, domestic shipping, and supplier coordination before assuming you can buy directly."
+      ],
+      "bullets": [
+        "Expect more friction on 1688 if your team does not operate in Chinese.",
+        "Plan for local contact information and payment support when testing 1688.",
+        "Do not confuse platform access with transaction readiness."
+      ],
+      "takeaway": "Platform usability is part of the sourcing cost."
+    },
+    {
+      "title": "When agent services make sense",
+      "paragraphs": [
+        "Agents can bridge the gap between 1688 and international buyers by handling local communication, payments, consolidations, and factory follow-up. They are especially useful when testing multiple small suppliers or when the factory is not used to export buyers.",
+        "The trade-off is added cost and another party in the workflow. Strong agents save time and reduce miscommunication. Weak agents create opacity and make quality accountability harder."
+      ],
+      "bullets": [
+        "Use an agent when language, payment, or domestic logistics are blocking progress.",
+        "Clarify what the agent owns: communication, inspection, consolidation, or all three.",
+        "Make sure pricing transparency is defined before you hand over sourcing authority."
+      ],
+      "takeaway": "An agent is valuable when it removes friction you cannot manage internally."
+    },
+    {
+      "title": "Which platform should you choose",
+      "paragraphs": [
+        "Choose Alibaba if you are new, need a cleaner export workflow, or want broader international support. Choose 1688 when you are price-sensitive, operationally stronger, and comfortable using local support to manage the transaction.",
+        "Many experienced buyers use both. Alibaba helps with early supplier discovery and export-ready conversations, while 1688 helps benchmark domestic pricing and uncover smaller upstream suppliers."
+      ],
+      "bullets": [
+        "Use Alibaba for speed, clarity, and export structure.",
+        "Use 1688 for sharper domestic price discovery and upstream sourcing.",
+        "Use both platforms together when you want leverage and better market context."
+      ],
+      "takeaway": "The best platform choice depends on your workflow maturity, not your curiosity."
+    }
+  ]
+}

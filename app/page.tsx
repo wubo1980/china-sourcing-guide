@@ -25,9 +25,9 @@ const featureIcons: Record<string, LucideIcon> = {
 /**
  * 渲染首页。
  */
-export default function HomePage() {
-  const categories = getCategories();
-  const latestGuides = getLatestArticles();
+export default async function HomePage() {
+  const categories = await getCategories();
+  const latestGuides = await getLatestArticles();
 
   return (
     <main className="min-h-screen">

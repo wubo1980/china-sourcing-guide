@@ -1,0 +1,74 @@
+{
+  "slug": "quality-control-checklist-for-chinese-manufacturers",
+  "category": "quality-control",
+  "title": "Quality Control Checklist for Chinese Manufacturers",
+  "description": "A practical QC checklist covering pre-production inspection, in-line checks, final random inspection, and third-party QC support.",
+  "publishedAt": "2026-02-02",
+  "readingTime": 10,
+  "tags": [
+    "QC Checklist",
+    "AQL",
+    "Factory Audit",
+    "Inspection"
+  ],
+  "cta": {
+    "title": "Get the importer toolkit",
+    "description": "Save your supplier shortlist, QC checklist, and negotiation notes in one place with a simple sourcing workflow toolkit.",
+    "label": "Join the waitlist",
+    "href": "#subscribe"
+  },
+  "sections": [
+    {
+      "title": "Pre-production inspection basics",
+      "paragraphs": [
+        "Pre-production inspection is where you confirm that the factory understands the approved sample, bill of materials, packaging requirements, and labeling details before volume output begins. This stage is cheaper to fix than final inspection.",
+        "Many defects are process defects, not random defects. If the factory starts the run with the wrong material or tooling setup, every later inspection becomes damage control."
+      ],
+      "bullets": [
+        "Confirm raw materials, color standards, dimensions, labels, and packaging references.",
+        "Verify the approved sample and golden sample are clearly identified onsite.",
+        "Check whether production records and line instructions reflect the final order spec."
+      ],
+      "takeaway": "Quality control starts before the line starts."
+    },
+    {
+      "title": "During-production checkpoints",
+      "paragraphs": [
+        "During-production inspection helps you catch drift while there is still time to correct it. This matters for appearance-sensitive goods, packaging-heavy products, and categories where minor defects can scale quickly.",
+        "A small mid-run sample can reveal whether tolerances, workmanship, or assembly consistency are already slipping."
+      ],
+      "bullets": [
+        "Review dimensions, cosmetic finish, function, and packaging consistency mid-run.",
+        "Check whether defect patterns are isolated or process-wide.",
+        "Require corrective action notes when repeated issues show up."
+      ],
+      "takeaway": "Mid-run checks are about course correction, not blame."
+    },
+    {
+      "title": "Final random inspection and AQL",
+      "paragraphs": [
+        "Final random inspection is the last gate before shipment release. It relies on statistically valid sampling and an agreed acceptance rule, often expressed through AQL. The purpose is not to test every unit, but to estimate shipment quality reliably.",
+        "AQL only works if you define critical, major, and minor defects in advance. Otherwise, buyers and inspectors may evaluate the same issue differently."
+      ],
+      "bullets": [
+        "Define defect classes before inspection day.",
+        "Match sample size and acceptance rules to the shipment size and product risk.",
+        "Use final inspection results as a release decision, not just a report archive."
+      ],
+      "takeaway": "AQL is useful when standards are agreed before sampling starts."
+    },
+    {
+      "title": "When to use third-party QC services",
+      "paragraphs": [
+        "Third-party inspectors make sense when you need independent verification, faster local coverage, or evidence for payment release decisions. They are especially helpful on first production runs or with suppliers that are new to your account.",
+        "However, an inspector cannot compensate for weak specifications. The better your checklist, approved sample, and defect definitions, the more valuable the inspection report becomes."
+      ],
+      "bullets": [
+        "Use third-party QC for first orders, remote teams, or high-risk product categories.",
+        "Share the approved sample and exact checklist before the visit.",
+        "Review photos, measurements, and defect classifications instead of relying on the pass or fail label alone."
+      ],
+      "takeaway": "Inspection quality depends on checklist quality."
+    }
+  ]
+}

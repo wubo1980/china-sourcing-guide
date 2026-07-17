@@ -1,0 +1,64 @@
+{
+  "slug": "rmb-currency-risk-china-importers-guide",
+  "category": "negotiation-pricing",
+  "title": "RMB Payment Risk for Importers",
+  "description": "How RMB-USD volatility affects your import margin from China. Compare settlement methods and hedging tools for small buyers to reduce currency exposure.",
+  "publishedAt": "2026-06-22",
+  "readingTime": 7,
+  "tags": [
+    "Currency Risk",
+    "RMB",
+    "Payment",
+    "Hedging"
+  ],
+  "cta": {
+    "title": "Get the importer toolkit",
+    "description": "Save your supplier shortlist, QC checklist, and negotiation notes in one place with a simple sourcing workflow toolkit.",
+    "label": "Join the waitlist",
+    "href": "#subscribe"
+  },
+  "sections": [
+    {
+      "title": "Why most importers ignore currency risk until it hurts",
+      "paragraphs": [
+        "Importers spend hours negotiating unit prices with suppliers but rarely think about the exchange rate that will determine the actual cost in their home currency. When the RMB strengthens against the dollar by 5% over a production cycle, it can erase the entire margin you negotiated.",
+        "Since 2020, the RMB has shown increased volatility, moving 3-8% per year against the USD. For an importer operating on 15-25% margins, a 5% currency swing is the difference between profit and break-even."
+      ],
+      "bullets": [
+        "Currency exposure is a real cost. Ignoring it does not make it go away.",
+        "A 5% RMB move can erase your entire negotiated savings from a supplier.",
+        "Small importers are the most exposed because they rarely hedge."
+      ],
+      "takeaway": "Currency risk is a margin factor, not a theoretical concern."
+    },
+    {
+      "title": "Settlement methods and their currency implications",
+      "paragraphs": [
+        "Most China suppliers quote in USD, which already protects them from currency risk. But an increasing number are asking for RMB settlement, especially since China's cross-border payment infrastructure has improved. How you settle affects who carries the currency risk.",
+        "Cross-border RMB settlement through the China International Payment System (CIPS) is faster and cheaper than traditional USD wire through correspondent banks. However, it also means you carry the full exchange rate risk from the day you wire to the day the supplier converts the RMB.",
+        "USD settlement through T/T wire is still the most common. The supplier converts your USD to RMB through their bank, and the exchange rate at conversion time determines their margin. If the RMB strengthens between quote and payment, the supplier may ask for a price adjustment."
+      ],
+      "bullets": [
+        "USD settlement: simpler but supplier may push for price adjustment if RMB strengthens.",
+        "RMB settlement via CIPS: faster and cheaper wire, but you take full FX risk.",
+        "Agree in advance which currency and rate basis the quote uses."
+      ],
+      "takeaway": "The settlement currency determines who carries the exchange rate risk."
+    },
+    {
+      "title": "Practical hedging for small importers",
+      "paragraphs": [
+        "Wall Street hedging products — futures, options, swaps — are designed for large corporations with treasury departments. For small importers doing $50K-$2M annually, the cost and complexity of financial hedging usually outweigh the benefit.",
+        "The most practical hedge for small importers is operational: negotiate pricing in USD with a defined validity period (30-60 days), build a 3-5% currency buffer into your target margin, and consider using a multi-currency business account that lets you hold USD and convert at favorable rates.",
+        "Forward contracts from banks are available for smaller amounts than most importers assume. Many banks will offer a 3-month forward for as little as $10,000. The cost is typically the interest rate differential between USD and RMB, which has been narrow in 2025-2026."
+      ],
+      "bullets": [
+        "Build a 3-5% currency buffer into your target margin.",
+        "Use 30-60 day pricing validity to lock in the quote rate.",
+        "Ask your bank about forward contracts starting from $10,000.",
+        "Consider multi-currency accounts to control conversion timing."
+      ],
+      "takeaway": "Operational hedging — margin buffers, fixed validity, and multi-currency accounts — is more practical than financial hedging for small importers."
+    }
+  ]
+}

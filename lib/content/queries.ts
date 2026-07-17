@@ -1,55 +1,57 @@
-import { articles, categories } from "./data";
+/**
+ * queries.ts
+ *
+ * Async 查询层，从 content/ JSON 目录读取数据。
+ * 所有函数均为 async，供 App Router 组件使用。
+ * 内部使用 content-reader 的 sync 方法 + 简单包装。
+ */
 import type { Article, Category } from "./types";
+import {
+  getCategoriesSync,
+  getCategoryBySlugSync,
+  getArticlesSync,
+  getLatestArticlesSync,
+  getArticlesByCategorySync,
+  getArticleBySlugSync,
+  getRelatedArticlesSync
+} from "./content-reader";
 
-/**
- * 返回全部分类。
- */
-export function getCategories(): Category[] {
-  return categories;
+// ── 公共导出 ───────────────────────────────────────
+
+export async function getCategories(): Promise<Category[]> {
+  return getCategoriesSync();
 }
 
-/**
- * 按 slug 获取分类。
- */
-export function getCategoryBySlug(slug: string): Category | undefined {
-  return categories.find((category) => category.slug === slug);
+export async function getCategoryBySlug(
+  slug: string
+): Promise<Category | undefined> {
+  return getCategoryBySlugSync(slug);
 }
 
-/**
- * 返回按发布日期倒序排列的全部文章。
- */
-export function getArticles(): Article[] {
-  return [...articles].sort((left, right) => {
-    return new Date(right.publishedAt).getTime() - new Date(left.publishedAt).getTime();
-  });
+export async function getArticles(): Promise<Article[]> {
+  return getArticlesSync();
 }
 
-/**
- * 返回首页所需的最新文章。
- */
-export function getLatestArticles(limit = 6): Article[] {
-  return getArticles().slice(0, limit);
+export async function getLatestArticles(limit = 6): Promise<Article[]> {
+  return getLatestArticlesSync(limit);
 }
 
-/**
- * 返回某个分类下的全部文章。
- */
-export function getArticlesByCategory(categorySlug: string): Article[] {
-  return getArticles().filter((article) => article.category === categorySlug);
+export async function getArticlesByCategory(
+  categorySlug: string
+): Promise<Article[]> {
+  return getArticlesByCategorySync(categorySlug);
 }
 
-/**
- * 按分类和 slug 获取单篇文章。
- */
-export function getArticleBySlug(categorySlug: string, slug: string): Article | undefined {
-  return articles.find((article) => article.category === categorySlug && article.slug === slug);
+export async function getArticleBySlug(
+  categorySlug: string,
+  slug: string
+): Promise<Article | undefined> {
+  return getArticleBySlugSync(categorySlug, slug);
 }
 
-/**
- * 返回相关文章，优先同分类。
- */
-export function getRelatedArticles(article: Article, limit = 3): Article[] {
-  return getArticlesByCategory(article.category)
-    .filter((item) => item.slug !== article.slug)
-    .slice(0, limit);
+export async function getRelatedArticles(
+  article: Article,
+  limit = 3
+): Promise<Article[]> {
+  return getRelatedArticlesSync(article, limit);
 }

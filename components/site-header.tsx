@@ -9,8 +9,8 @@ type SiteHeaderProps = {
 /**
  * 渲染全站顶部导航。
  */
-export function SiteHeader({ activePath }: SiteHeaderProps) {
-  const categories = getCategories();
+export async function SiteHeader({ activePath }: SiteHeaderProps) {
+  const categories = await getCategories();
 
   return (
     <header className="sticky top-0 z-30 border-b border-white/8 bg-[#0f1117]/80 backdrop-blur-xl">

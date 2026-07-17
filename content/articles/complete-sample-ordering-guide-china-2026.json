@@ -1,0 +1,83 @@
+{
+  "slug": "complete-sample-ordering-guide-china-2026",
+  "category": "factory-finder",
+  "title": "Complete Sample Ordering Guide for China Sourcing (2026)",
+  "description": "A practical guide to ordering, evaluating, and managing samples from Chinese suppliers. Covers sample types, payment, evaluation criteria, and common traps.",
+  "publishedAt": "2026-06-26",
+  "readingTime": 11,
+  "tags": [
+    "Samples",
+    "Supplier Vetting",
+    "Quality Control",
+    "Pre-Production"
+  ],
+  "cta": {
+    "title": "Get the importer toolkit",
+    "description": "Save your supplier shortlist, QC checklist, and negotiation notes in one place with a simple sourcing workflow toolkit.",
+    "label": "Join the waitlist",
+    "href": "#subscribe"
+  },
+  "sections": [
+    {
+      "title": "Why samples matter more than most buyers realize",
+      "paragraphs": [
+        "Samples are the first real test of whether a supplier can deliver what they promise. A well-managed sample process reveals production quality, communication reliability, and attention to detail before any large commitment. Skipping or rushing this step is the most common avoidable mistake in China sourcing.",
+        "Good buyers use samples to answer three questions: can the supplier reproduce the specified quality, can they communicate specification changes clearly, and does the product meet the performance and compliance requirements for your market. Each question requires a different type of sample at a different stage of the process."
+      ],
+      "bullets": [
+        "The sample step is not a formality. It is the lowest-cost opportunity to discover problems.",
+        "Use samples to evaluate the supplier team, not just the product.",
+        "Document every sample request, spec change, and evaluation result for future reference."
+      ],
+      "takeaway": "Samples are your cheapest insurance policy. Use them deliberately."
+    },
+    {
+      "title": "Four types of samples and when to use each",
+      "paragraphs": [
+        "Stock samples are existing products the supplier already produces. They ship fastest and cost least, but they only tell you whether the supplier can make something they already know how to make. Use stock samples for an initial quality benchmark and to evaluate packaging and finish.",
+        "Custom samples are made to your specifications. They take longer (1-3 weeks typical) and cost more, but they test the supplier's ability to follow your requirements. This is the most important sample type for product-based importers.",
+        "Pre-production samples are made from the same production line setup that will run your order. They confirm that the factory has dialed in materials, tooling, and assembly before mass production begins. Never skip this step for custom products.",
+        "Production samples are pulled from the actual production batch. They catch last-minute drift caused by material substitutions, worker turnover, or tooling wear. A reliable supplier will send production samples without being asked during the first 10-20% of production."
+      ],
+      "bullets": [
+        "Stock samples: fast, cheap, limited insight. Use for initial vetting.",
+        "Custom samples: essential for custom products. Test spec compliance.",
+        "Pre-production samples: the most critical checkpoint. Never skip.",
+        "Production samples: catch last-minute drift. Expect them from good suppliers."
+      ],
+      "takeaway": "Each sample type tests a different risk. Plan for all four."
+    },
+    {
+      "title": "Sample costs, payment, and lead times",
+      "paragraphs": [
+        "Sample costs vary widely by product complexity. Simple stock samples may cost $20-50 plus shipping. Custom samples for injection molding or electronics can run $200-1,000 or more. A supplier that asks you to pay full product price plus high mold fees for a simple modification may signal that they prefer production orders over sample work.",
+        "Most suppliers will ask you to cover sample cost and shipping. This is standard practice. Some will refund the sample cost if you place a production order. Always ask about refund policy before paying, and get it in writing.",
+        "Sample lead times depend on complexity. Stock samples ship in 3-7 days. Custom samples take 1-3 weeks. Pre-production samples should align with your production timeline. Build sample time into your overall sourcing calendar, especially for seasonal products."
+      ],
+      "takeaway": "Sample cost transparency is a useful supplier quality signal."
+    },
+    {
+      "title": "How to evaluate samples properly",
+      "paragraphs": [
+        "Evaluating a sample is not about whether it looks good on first inspection. Build a structured checklist covering appearance (finish, color match, assembly fit), functionality (does it work as designed), and compliance (material safety, labeling, packaging requirements for your market).",
+        "Take photos and measurements against your specification sheet. Document every deviation, even if it seems minor. A small difference in material thickness or finish quality can become a major issue at production scale.",
+        "Ask the supplier to explain any deviations before you accept or reject. Some changes may be intentional improvements based on their manufacturing experience. Others may be cost-cutting shortcuts. The supplier's explanation tells you as much about their integrity as the sample itself."
+      ],
+      "bullets": [
+        "Use a structured checklist: appearance, functionality, compliance.",
+        "Photograph and measure against spec. Document all deviations.",
+        "Ask suppliers to explain changes before accepting or rejecting."
+      ],
+      "takeaway": "A thorough sample evaluation prevents costly production surprises."
+    },
+    {
+      "title": "Common sample traps and how to avoid them",
+      "paragraphs": [
+        "The masterpiece sample is made with extra care by senior workers to look better than what mass production will deliver. Guard against it by asking for video of the sample being made or requesting production-line samples, not lab samples.",
+        "Spec creep happens when verbal changes during sample review are not documented. Every specification change must be confirmed in writing, with the supplier confirming they understand the new requirement and its cost and timeline impact.",
+        "The free sample delay occurs when a supplier offers free samples but keeps delaying shipment. This often signals low interest in your order or capacity issues. Set a clear deadline and move on if it is not met."
+      ],
+      "takeaway": "Documented processes prevent the most common sample failures."
+    }
+  ]
+}

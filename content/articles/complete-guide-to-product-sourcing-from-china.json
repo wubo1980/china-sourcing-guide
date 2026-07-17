@@ -1,0 +1,74 @@
+{
+  "slug": "complete-guide-to-product-sourcing-from-china",
+  "category": "factory-finder",
+  "title": "Complete Guide to Product Sourcing from China",
+  "description": "An end-to-end sourcing workflow covering supplier discovery, RFQs, samples, negotiation, and production planning.",
+  "publishedAt": "2026-01-25",
+  "readingTime": 11,
+  "tags": [
+    "Sourcing Workflow",
+    "RFQ",
+    "Samples",
+    "Factories"
+  ],
+  "cta": {
+    "title": "Get the importer toolkit",
+    "description": "Save your supplier shortlist, QC checklist, and negotiation notes in one place with a simple sourcing workflow toolkit.",
+    "label": "Join the waitlist",
+    "href": "#subscribe"
+  },
+  "sections": [
+    {
+      "title": "Map the workflow before you ask for quotes",
+      "paragraphs": [
+        "Sourcing gets expensive when buyers begin by collecting random quotes without locking down product specs, target pricing, and minimum viable quality standards. Your first task is to define what you are actually trying to buy.",
+        "A clean sourcing workflow moves from product definition to supplier discovery, RFQ, sample comparison, negotiation, pilot order, and only then larger production."
+      ],
+      "bullets": [
+        "Define specs, target cost, order size, packaging, and compliance needs first.",
+        "Separate must-have requirements from nice-to-have features.",
+        "Use the workflow to control timing, not just to collect prices."
+      ],
+      "takeaway": "A sourcing process is a decision system, not a message thread."
+    },
+    {
+      "title": "Choose the right factory type",
+      "paragraphs": [
+        "Not every product should be sourced from a pure factory. Some categories work better through specialized suppliers, assembly partners, or trading firms that coordinate multiple components.",
+        "The right factory type depends on product complexity, customization level, and how much engineering coordination is required across materials, packaging, and finishing."
+      ],
+      "bullets": [
+        "Use direct factories for stable product categories with clear production lines.",
+        "Consider hybrid suppliers when the product needs bundled sourcing or multiple subcomponents.",
+        "Ask how much of the process is in-house versus subcontracted."
+      ],
+      "takeaway": "The best supplier model is the one that fits your product structure."
+    },
+    {
+      "title": "RFQ best practices",
+      "paragraphs": [
+        "A strong RFQ reduces quote noise. Suppliers price more accurately when your request includes target quantity, specifications, packaging, destination market, sample requirements, and timeline.",
+        "Weak RFQs create weak comparisons because each supplier makes different assumptions about quality, packaging, lead time, or certification."
+      ],
+      "bullets": [
+        "Use one RFQ template for every candidate so comparisons stay fair.",
+        "Ask for MOQ, sample cost, lead time, payment terms, and production capacity together.",
+        "Require suppliers to note any assumptions or exclusions in writing."
+      ],
+      "takeaway": "Better input creates better quotes and cleaner negotiation."
+    },
+    {
+      "title": "Sample ordering and decision rules",
+      "paragraphs": [
+        "Samples are not just for checking looks. They are for measuring communication discipline, production detail, packaging accuracy, and how a supplier handles revisions. A poor sample process usually predicts a poor production process.",
+        "Compare samples using a scorecard, not memory. When multiple suppliers are close, the supplier with better documentation and faster issue resolution is often the safer production partner."
+      ],
+      "bullets": [
+        "Score samples for appearance, function, packaging, and supplier responsiveness.",
+        "Track revision speed and willingness to confirm details in writing.",
+        "Do not approve production until the sample reflects your final spec."
+      ],
+      "takeaway": "Samples are the first small-scale audit of the working relationship."
+    }
+  ]
+}

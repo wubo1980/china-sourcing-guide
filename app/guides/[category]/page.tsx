@@ -19,8 +19,9 @@ export const dynamicParams = false;
 /**
  * 生成全部分类静态参数。
  */
-export function generateStaticParams() {
-  return getCategories().map((category) => ({
+export async function generateStaticParams() {
+  const allCategories = await getCategories();
+  return allCategories.map((category) => ({
     category: category.slug
   }));
 }
@@ -30,7 +31,7 @@ export function generateStaticParams() {
  */
 export async function generateMetadata({ params }: CategoryPageProps): Promise<Metadata> {
   const { category } = await params;
-  const currentCategory = getCategoryBySlug(category);
+  const currentCategory = await getCategoryBySlug(category);
 
   if (!currentCategory) {
     return buildMetadata({
@@ -52,13 +53,13 @@ export async function generateMetadata({ params }: CategoryPageProps): Promise<M
  */
 export default async function CategoryPage({ params }: CategoryPageProps) {
   const { category } = await params;
-  const currentCategory = getCategoryBySlug(category);
+  const currentCategory = await getCategoryBySlug(category);
 
   if (!currentCategory) {
     notFound();
   }
 
-  const guides = getArticlesByCategory(currentCategory.slug);
+  const guides = await getArticlesByCategory(currentCategory.slug);
 
   return (
     <main className="min-h-screen">

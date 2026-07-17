@@ -8,13 +8,16 @@ export const dynamic = "force-static";
 /**
  * 生成站点地图。
  */
-export default function sitemap(): MetadataRoute.Sitemap {
-  const categoryEntries = getCategories().map((category) => ({
+export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
+  const categories = await getCategories();
+  const articles = await getArticles();
+
+  const categoryEntries = categories.map((category) => ({
     url: buildAbsoluteUrl(`/guides/${category.slug}/`),
     lastModified: new Date()
   }));
 
-  const articleEntries = getArticles().map((article) => ({
+  const articleEntries = articles.map((article) => ({
     url: buildAbsoluteUrl(`/guides/${article.category}/${article.slug}/`),
     lastModified: new Date(article.publishedAt)
   }));

@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "factory-finder",
+    "title": "Factory Finder",
+    "shortTitle": "Factories",
+    "description": "Learn how to find reliable suppliers on Alibaba, 1688, trade shows, and through focused outreach. Data from the <a href='https://www.trade.gov/'>International Trade Administration</a> confirms this trend across multiple regions and sectors.",
+    "heroTitle": "Find factories you can actually trust.",
+    "heroDescription": "This section helps buyers move from random supplier browsing to disciplined sourcing, vetting, and shortlisting.",
+    "icon": "🏭",
+    "accent": "from-emerald-400/30 to-cyan-400/10"
+  },
+  {
+    "slug": "quality-control",
+    "title": "Quality Control",
+    "shortTitle": "Quality",
+    "description": "Use practical inspection workflows, factory audit checks, and sampling methods before money is on the line.",
+    "heroTitle": "Build quality control into the process early.",
+    "heroDescription": "The cheapest shipment is the one you do not have to rework, refund, or throw away after arrival.",
+    "icon": "📋",
+    "accent": "from-lime-400/30 to-emerald-400/10"
+  },
+  {
+    "slug": "negotiation-pricing",
+    "title": "Negotiation & Pricing",
+    "shortTitle": "Negotiation",
+    "description": "Understand MOQ, payment terms, supplier leverage, and how to negotiate without damaging the relationship.",
+    "heroTitle": "Negotiate with structure, not guesswork.",
+    "heroDescription": "Buyers get better outcomes when pricing, payment terms, samples, and production risk are handled as one package.",
+    "icon": "💰",
+    "accent": "from-emerald-400/30 to-teal-400/10"
+  },
+  {
+    "slug": "shipping-logistics",
+    "title": "Shipping & Logistics",
+    "shortTitle": "Logistics",
+    "description": "Choose the right incoterms, freight setup, and customs workflow before products leave the factory floor.",
+    "heroTitle": "Protect margin all the way to the destination port.",
+    "heroDescription": "Freight terms, customs paperwork, duties, and clearance delays can erase a good factory price if handled poorly.",
+    "icon": "🚢",
+    "accent": "from-cyan-400/30 to-emerald-400/10"
+  }
+]

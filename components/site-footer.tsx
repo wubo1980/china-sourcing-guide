@@ -5,8 +5,8 @@ import { getCategories } from "../lib/content/queries";
 /**
  * 渲染全站页脚。
  */
-export function SiteFooter() {
-  const categories = getCategories();
+export async function SiteFooter() {
+  const categories = await getCategories();
 
   return (
     <footer className="border-t border-white/8 py-10">

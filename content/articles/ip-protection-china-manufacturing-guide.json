@@ -1,0 +1,74 @@
+{
+  "slug": "ip-protection-china-manufacturing-guide",
+  "category": "negotiation-pricing",
+  "title": "IP Protection for China Manufacturing",
+  "description": "Practical IP protection for importers sourcing from China. Learn about patents, NDAs, supply chain isolation, and recourse when suppliers copy your designs.",
+  "publishedAt": "2026-06-22",
+  "readingTime": 8,
+  "tags": [
+    "IP Protection",
+    "Patents",
+    "NDA",
+    "Design Protection"
+  ],
+  "cta": {
+    "title": "Get the importer toolkit",
+    "description": "Save your supplier shortlist, QC checklist, and negotiation notes in one place with a simple sourcing workflow toolkit.",
+    "label": "Join the waitlist",
+    "href": "#subscribe"
+  },
+  "sections": [
+    {
+      "title": "Why small importers lose IP protection arguments",
+      "paragraphs": [
+        "The most common IP mistake small importers make is thinking that Chinese laws do not protect foreign designs. In reality, China has patent, trademark, and copyright laws that are regularly enforced. The problem is not the law. It is that most small importers never file protection in China at all.",
+        "IP rights are territorial. A US patent or trademark gives you zero protection in China. If your product design is not registered with the China National Intellectual Property Administration (CNIPA), a competitor can legally copy it in China. A 2026 supplier IP audit checklist from Yucheng IP Law emphasizes that registration in China must happen before you share designs with suppliers."
+      ],
+      "bullets": [
+        "US patents and trademarks do not apply in China. Register locally.",
+        "China follows a first-to-file system, not first-to-invent.",
+        "Filing costs in China are lower than in the US but must be done proactively."
+      ],
+      "takeaway": "If your design is valuable enough to manufacture, it is valuable enough to register in China."
+    },
+    {
+      "title": "Patent strategy for small budgets",
+      "paragraphs": [
+        "China offers three patent types: invention patents (20 years, 18-36 month examination), utility model patents (10 years, 6-12 month examination), and design patents (15 years, 3-6 month examination). For most small importers, utility model and design patents are the practical starting points because of faster approval and lower cost.",
+        "A utility model patent in China costs roughly $500-$1,500 to file through a local patent agent. A design patent costs $300-$800. Compare this to the cost of having your product copied and losing market share to a cheaper knockoff."
+      ],
+      "bullets": [
+        "Utility model patents: fast approval (6-12 months), low cost, covers product structure.",
+        "Design patents: fastest approval (3-6 months), covers appearance only.",
+        "Invention patents: longest and most expensive, but strongest protection."
+      ],
+      "takeaway": "File a utility model or design patent before sending your specification to any supplier."
+    },
+    {
+      "title": "NDAs have limited power — here is what to do instead",
+      "paragraphs": [
+        "Non-disclosure agreements are common in China sourcing, but their practical enforcement is limited. NDAs are useful for establishing a paper trail and showing intent, but suing a Chinese supplier for NDA breach is expensive and slow, especially for small claims.",
+        "A more effective strategy is structural separation: split your product design across multiple suppliers so no single supplier has the complete picture. For example, have one factory produce the main body, another make the electronics, and a third handle packaging assembly. This makes copying significantly harder."
+      ],
+      "bullets": [
+        "NDAs establish intent but are hard to enforce for small claims.",
+        "Structural separation is more effective than any single legal document.",
+        "Consider using a sourcing agent to manage multi-supplier coordination."
+      ],
+      "takeaway": "Design your supply chain so that no single supplier can reproduce your full product."
+    },
+    {
+      "title": "What to do when you discover a copycat",
+      "paragraphs": [
+        "If you find a copy of your product on Alibaba or at a trade show, act quickly but strategically. First, confirm whether the copycat is your current supplier or a third party. If it is your supplier, you have leverage: production stoppage threat, unpaid balance, or supply switch. If it is a third party, your recourse depends on whether you registered IP in China.",
+        "For registered patents, send a cease-and-desist letter through a Chinese law firm. Many unauthorized sellers will stop immediately because they are risk-averse. If they do not stop, file a complaint with the local Market Supervision Bureau or the e-commerce platform's IP protection program."
+      ],
+      "bullets": [
+        "Use a Chinese law firm for cease-and-desist letters — supplier response rate is higher.",
+        "Register on Alibaba's IP protection platform before problems arise.",
+        "Keep organized records of your design registration, contracts, and correspondence."
+      ],
+      "takeaway": "IP problems in China are manageable when you have registered rights and act decisively."
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "slug": "avoid-scams-and-bad-suppliers-in-china",
+  "category": "factory-finder",
+  "title": "How to Avoid Scams and Bad Suppliers in China",
+  "description": "Spot common scam patterns, run a practical due diligence checklist, and understand your options when something goes wrong.",
+  "publishedAt": "2026-02-24",
+  "readingTime": 10,
+  "tags": [
+    "Scams",
+    "Due Diligence",
+    "Supplier Risk",
+    "Background Checks"
+  ],
+  "cta": {
+    "title": "Get the importer toolkit",
+    "description": "Save your supplier shortlist, QC checklist, and negotiation notes in one place with a simple sourcing workflow toolkit.",
+    "label": "Join the waitlist",
+    "href": "#subscribe"
+  },
+  "sections": [
+    {
+      "title": "Common scam patterns",
+      "paragraphs": [
+        "Most sourcing scams are not dramatic movie-style fraud. They are small credibility failures that grow into payment loss, unusable product, or disappearing communication. Watch for suppliers that switch bank details, avoid verifiable company data, or constantly rush decisions.",
+        "Bad suppliers are not always criminal. Some are simply incapable, disorganized, or misleading about what they control. The result can be just as costly."
+      ],
+      "bullets": [
+        "Be cautious when bank information changes suddenly or payment pressure appears early.",
+        "Treat vague company identity and unwillingness to share basic documents as major warnings.",
+        "Watch for catalog inconsistency that suggests opportunistic trading rather than focused capability."
+      ],
+      "takeaway": "Fraud risk often enters through rushed decisions and weak verification."
+    },
+    {
+      "title": "A due diligence checklist that matters",
+      "paragraphs": [
+        "Due diligence should verify identity, operating model, and execution ability. Buyers often stop at identity checks, but capability checks are equally important. A real company can still be the wrong company for your order.",
+        "Focus on business license consistency, product specialization, production evidence, sample quality, and communication discipline."
+      ],
+      "bullets": [
+        "Verify legal entity details against payment details and supplier claims.",
+        "Confirm whether the company is a manufacturer, trading company, or both.",
+        "Use samples and detailed product questions to test real operating competence."
+      ],
+      "takeaway": "Due diligence should answer both 'Are they real?' and 'Can they deliver?'"
+    },
+    {
+      "title": "Background check and verification services",
+      "paragraphs": [
+        "Third-party verification, factory audits, and local checks can reduce uncertainty, especially on larger first orders. These services are most valuable when you already know what you need verified.",
+        "Do not outsource judgment completely. A service can collect evidence, but you still need to decide whether the supplier is fit for your risk level and order complexity."
+      ],
+      "bullets": [
+        "Use local checks when order value or product risk justifies the cost.",
+        "Ask for photos, documentation, and site observations, not just a pass or fail summary.",
+        "Combine background checks with your own RFQ, sample, and QC workflow."
+      ],
+      "takeaway": "External checks work best as part of a broader control system."
+    },
+    {
+      "title": "Legal recourse and practical recovery",
+      "paragraphs": [
+        "Legal recourse exists, but prevention is usually far cheaper than enforcement. Contract clarity, payment structure, written specifications, and inspection evidence improve your leverage if a dispute occurs.",
+        "When things go wrong, act quickly. Preserve messages, invoices, shipping documents, and quality evidence. The more organized your records, the better your negotiation or escalation position."
+      ],
+      "bullets": [
+        "Document every material agreement before money moves.",
+        "Store payment records, samples, inspection files, and product specifications together.",
+        "Assume recovery options get weaker as time passes."
+      ],
+      "takeaway": "Good documentation is both a prevention tool and a recovery asset."
+    }
+  ]
+}

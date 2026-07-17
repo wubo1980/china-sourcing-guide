@@ -1,0 +1,79 @@
+{
+  "slug": "fba-prep-qc-guide-china-2026",
+  "category": "quality-control",
+  "title": "FBA Prep QC Guide: Inspection Checklist for Amazon Sellers Sourcing from China",
+  "description": "A complete FBA prep QC guide for Amazon sellers sourcing from China. Covers prep requirements, inspection checklist, common mistakes, and how to catch issues before they reach the warehouse.",
+  "publishedAt": "2026-06-28",
+  "readingTime": 12,
+  "tags": [
+    "FBA",
+    "Amazon",
+    "QC Checklist",
+    "Prep Requirements",
+    "Inspection"
+  ],
+  "cta": {
+    "title": "Get the importer toolkit",
+    "description": "Save your supplier shortlist, QC checklist, and negotiation notes in one place with a simple sourcing workflow toolkit.",
+    "label": "Join the waitlist",
+    "href": "#subscribe"
+  },
+  "sections": [
+    {
+      "title": "Why FBA prep QC is different from standard import QC",
+      "paragraphs": [
+        "FBA prep QC is not the same as general import quality control. Amazon has specific packaging, labeling, and preparation requirements that standard factory QC workflows do not cover. A product that passes general QC can still get rejected at the Amazon fulfillment center if the prep is wrong.",
+        "The difference matters because FBA rejection is expensive. You pay for return shipping, restocking fees, and lost selling time. A rejected shipment that costs $5,000 in freight can end up costing $8,000 by the time it is sorted, returned, and re-shipped.",
+        "FBA prep QC must cover three areas: product quality (does it meet your spec?), packaging compliance (does it meet Amazon FBA requirements?), and shipment readiness (are labels, case packs, and documents correct?). A standard QC inspection checks the first area but often misses the second and third."
+      ],
+      "bullets": [
+        "Amazon FBA prep requirements cover packaging, labeling, and product safety standards.",
+        "Standard factory QC does not verify FBA-specific requirements.",
+        "A rejected FBA shipment costs 50-100% of the original freight value in return and rework."
+      ],
+      "takeaway": "FBA prep QC is a specialized layer on top of standard QC. Do not treat them as interchangeable."
+    },
+    {
+      "title": "Amazon FBA prep requirements at a glance",
+      "paragraphs": [
+        "Amazon FBA prep requirements are documented in Seller Central. The core rules cover poly bagging (bags must be at least 1.5 mil thick and have suffocation warnings), bubble wrapping (fragile items must have at least 2 inches of cushioning on all sides), case pack requirements (each case must have a unique FBA label and should not exceed 50 lbs), and expiry dating (products with expiration dates must have the date printed in at least 36pt font on the outside of the case).",
+        "For Chinese imports, the most common FBA prep violations are incorrect labels (UPC/GTIN vs FNSKU mismatch), improper poly bag thickness, missing suffocation warnings, and incorrect case pack labels. These are easy for the factory to fix once they are included in the QC checklist.",
+        "The prep requirements differ by product category. Commingled vs stickered inventory choices, adult vs children product rules, and hazmat classification all change what is needed. Importers should review the Amazon FBA requirements page for their specific product category before finalizing the QC checklist."
+      ],
+      "bullets": [
+        "Core rules: poly bag above 1.5 mil, suffocation warnings, bubble wrap above 2 inches, case weight under 50 lbs.",
+        "Label rules: FNSKU labels must cover any existing UPC/GTIN barcodes.",
+        "Expiry dating: 36pt font minimum on case exterior.",
+        "Category-specific rules apply. Check Seller Central for your product type."
+      ],
+      "takeaway": "FBA prep requirements are well documented. Print the Amazon checklist and hand it to your QC inspector before every shipment."
+    },
+    {
+      "title": "Building an FBA prep QC checklist for your China supplier",
+      "paragraphs": [
+        "An effective FBA prep QC checklist has three sections. Section one covers product quality: dimensions, materials, finish, functionality, and color accuracy against the approved sample. Section two covers packaging compliance: poly bag thickness, label placement, case pack configuration, and suffocation warning presence. Section three covers documentation: FBA shipment ID, tracking numbers, delivery window confirmation, and customs paperwork.",
+        "Share the checklist with the factory at least two weeks before the production date. This gives them time to prepare materials (correct poly bags, proper labels, etc.) and train workers on the specific requirement if it differs from their usual workflow.",
+        "The inspection should happen in two stages. Stage one is during-production or at final inspection before the shipment goes to the FBA warehouse. Stage two is at the freight forwarder consolidation facility after packing but before container loading. This second stage catches label swaps, missing case packs, and packaging damage that happened during consolidation."
+      ],
+      "bullets": [
+        "Three-section checklist: product quality / packaging compliance / documentation.",
+        "Share the checklist with the factory 2 weeks before production starts.",
+        "Two inspection stages: at factory before consolidation, and at forwarder before container loading."
+      ],
+      "takeaway": "A structured checklist shared early prevents most FBA prep rejections."
+    },
+    {
+      "title": "Common FBA prep QC failures and how to prevent them",
+      "paragraphs": [
+        "The top five FBA prep QC failures for China imports are: (1) wrong labels - the factory uses the UPC barcode instead of the FNSKU barcode that Amazon assigns; (2) insufficient poly bag thickness - factory uses standard 0.8 mil bags instead of the required 1.5 mil; (3) missing suffocation warnings - factories in China do not use these by default and forget to add them; (4) case packs too heavy - workers overpack boxes beyond the 50 lb limit; and (5) incorrect shipment plan - the products arrive at the wrong Amazon fulfillment center for the seller active plan.",
+        "Each of these is preventable with a good QC process. Label issues are solved by including a label placement diagram in the work order. Poly bag issues are solved by sourcing the correct bags from the factory or supplying them directly. Suffocation warnings are solved by adding them to the packaging spec and checking them at inspection. Weight issues are solved by setting a maximum units-per-case rule. Shipment plan issues are solved by confirming delivery address and window before the container departs."
+      ],
+      "bullets": [
+        "Top 5 failures: wrong labels, thin bags, missing warnings, heavy cases, wrong address.",
+        "Each failure has a simple preventive control. Document them in the production work order.",
+        "Include label diagrams and packaging spec sheets in the factory instructions."
+      ],
+      "takeaway": "The most common FBA prep failures are simple to fix. The key is including them in the QC checklist before production, not after."
+    }
+  ]
+}

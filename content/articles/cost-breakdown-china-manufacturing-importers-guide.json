@@ -1,0 +1,79 @@
+{
+  "slug": "cost-breakdown-china-manufacturing-importers-guide",
+  "category": "negotiation-pricing",
+  "title": "Cost Breakdown for China Manufacturing: Understand Factory Pricing",
+  "description": "Learn to read a Chinese factory cost breakdown. Understand material, labor, tooling, overhead, and margin components so you can negotiate with data instead of guesswork.",
+  "publishedAt": "2026-06-28",
+  "readingTime": 10,
+  "tags": [
+    "Cost Breakdown",
+    "Pricing",
+    "Negotiation",
+    "Supplier",
+    "Manufacturing"
+  ],
+  "cta": {
+    "title": "Get the importer toolkit",
+    "description": "Save your supplier shortlist, QC checklist, and negotiation notes in one place with a simple sourcing workflow toolkit.",
+    "label": "Join the waitlist",
+    "href": "#subscribe"
+  },
+  "sections": [
+    {
+      "title": "Why the sticker price is not the real price",
+      "paragraphs": [
+        "When a Chinese supplier sends you a unit price, it is an aggregate of raw materials, labor, overhead, tooling amortization, packaging, logistics margin, and profit. Understanding the components lets you negotiate each line instead of just asking for a discount on the total.",
+        "Most buyers make the mistake of negotiating price without understanding cost. They ask for 10% off and the supplier agrees by cutting margin on a component they had no intention of maintaining. Six months later, quality drops because the factory switched to cheaper raw materials to keep their margin.",
+        "The goal of cost breakdown analysis is to identify which cost components are negotiable (labor inefficiency, overhead allocation, packaging choices), which are fixed (raw material market price, regulatory compliance), and which are deliberately hidden (tooling amortization, quality control charges). Armed with this map, you negotiate with precision instead of bluffing."
+      ],
+      "bullets": [
+        "Unit price = materials + labor + overhead + tooling + packaging + logistics + profit.",
+        "Negotiate components, not the total. A blanket discount hides quality risk.",
+        "Map costs into negotiable, fixed, and hidden before starting price talks."
+      ],
+      "takeaway": "Price negotiation without cost understanding is gambling. Always request and analyze a cost breakdown."
+    },
+    {
+      "title": "Raw materials: the component you cannot bluff",
+      "paragraphs": [
+        "Raw materials make up 40-70% of total product cost for most manufactured goods. This component is largely market-driven and not subject to negotiation. The supplier pays what the market charges for steel, plastic resin, electronics components, or fabric.",
+        "What you can influence is material grade and sourcing. If the quote uses premium-grade stainless steel but your market does not require it, ask for a quote using standard-grade material. If the fabric is sourced from a high-cost domestic supplier, ask if imported alternatives are available.",
+        "When requesting a cost breakdown, ask the supplier to specify the raw material grade, quantity per unit, and unit cost. Then benchmark against public market prices from sources like the London Metal Exchange (for metals) or Plastics News (for resin). A significant markup suggests the supplier either has inefficient sourcing or is inflating this line as a margin buffer."
+      ],
+      "bullets": [
+        "Materials = 40-70% of cost. Market driven, not negotiable on the same spec.",
+        "Negotiate material grade, not material price. Ask for alternative spec quotes.",
+        "Benchmark raw material pricing against public indices to spot markup."
+      ],
+      "takeaway": "You cannot negotiate raw material market price, but you can negotiate grade, source, and specification."
+    },
+    {
+      "title": "Labor and overhead: where the real negotiation lives",
+      "paragraphs": [
+        "Labor costs in manufacturing vary dramatically by region within China. Coastal factories (Guangdong, Zhejiang, Jiangsu) pay 20-40% higher wages than inland factories (Sichuan, Henan, Anhui). A cost breakdown that does not specify where the factory is located may hide this variability.",
+        "Overhead includes factory rent, utilities, equipment maintenance, management salaries, and quality control staff. This is typically 15-25% of the unit cost. Some suppliers inflate overhead when they have excess capacity to make up for idle production lines.",
+        "Ask specific questions about labor: how many workers per production line, what is the daily output per line, and what is the hourly wage rate. Compare the implied labor cost per unit against regional averages. A significant gap may indicate inefficient production or hidden margin padding in the labor cost line."
+      ],
+      "bullets": [
+        "Coastal vs inland labor: 20-40% difference. Location matters.",
+        "Overhead = 15-25% of unit cost. Inflated when factory has idle capacity.",
+        "Implied labor efficiency (workers per unit) reveals production competence."
+      ],
+      "takeaway": "Labor and overhead are the most negotiated components. Ask for details and benchmark against regional data."
+    },
+    {
+      "title": "Tooling amortization, packaging, and hidden costs",
+      "paragraphs": [
+        "Tooling and mold costs are often listed separately or silently buried in the unit price. A mold that costs $5,000 amortized over 500 units adds $10 per unit. Over 10,000 units it adds $0.50. If the supplier does not specify the amortization period, you may be paying for tooling that has already been fully recovered.",
+        "Packaging is another frequently inflated line. A simple product box from a Chinese packaging supplier costs $0.20-0.80. If the cost breakdown shows $1.50 or more, the supplier is either using premium packaging or adding margin. Ask for a packaging cost breakdown separately.",
+        "Hidden costs include quality control charges (inspections, certifications), testing fees (lab testing for compliance), and administrative fees (documentation, shipping coordination). These are often bundled into the total but should be itemized. A transparent supplier provides a clear list. A supplier that resists itemization is usually hiding something."
+      ],
+      "bullets": [
+        "Tooling amortization: verify the expected volume and check if mold costs are already covered.",
+        "Packaging: ask for a separate packaging cost breakdown. Boxes cost $0.20-0.80.",
+        "Hidden costs: QC, testing, and admin fees should be itemized on the quote."
+      ],
+      "takeaway": "Hidden costs add 10-20% to the invoice total. Itemized cost breakdowns prevent surprises and give you specific negotiation points."
+    }
+  ]
+}

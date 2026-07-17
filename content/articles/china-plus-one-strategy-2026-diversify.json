@@ -1,0 +1,90 @@
+{
+  "slug": "china-plus-one-strategy-2026-diversify",
+  "category": "shipping-logistics",
+  "title": "China+1: Diversify Your Sourcing",
+  "description": "China+1 strategy for small importers importing from China. Compare Vietnam, India, and Mexico alternatives. Learn real costs and a phase-based roadmap.",
+  "publishedAt": "2026-06-22",
+  "readingTime": 10,
+  "tags": [
+    "China+1",
+    "Supply Chain",
+    "Diversification",
+    "Southeast Asia"
+  ],
+  "cta": {
+    "title": "Get the importer toolkit",
+    "description": "Save your supplier shortlist, QC checklist, and negotiation notes in one place with a simple sourcing workflow toolkit.",
+    "label": "Join the waitlist",
+    "href": "#subscribe"
+  },
+  "sections": [
+    {
+      "title": "What China+1 actually means for small importers",
+      "paragraphs": [
+        "China+1 is not about leaving China. It is about adding a second sourcing country so you are not entirely dependent on one supply chain. For small and mid-size importers, the goal is risk reduction, not complete relocation.",
+        "The idea sounds simple, but execution is harder than most guides admit. A 2026 analysis by New Buying Agent found that most China+1 strategies fail within 18 months because buyers underestimate ecosystem gaps — the supporting infrastructure of suppliers, logistics providers, and skilled labor that China built over three decades."
+      ],
+      "bullets": [
+        "China+1 means 'keep China as your primary source, add one alternative.'",
+        "Do not confuse China+1 with 'China exit' — they are different strategies.",
+        "Expect the first 12 months in a new country to be less efficient than China."
+      ],
+      "takeaway": "China+1 is an insurance policy, not a relocation plan."
+    },
+    {
+      "title": "Vietnam: the closest ecosystem fit",
+      "paragraphs": [
+        "Vietnam is the most popular China+1 destination for good reasons. It shares a land border with China, has a growing manufacturing workforce, and benefits from multiple free trade agreements including the CPTPP and EVFTA. Garment, footwear, and furniture buyers have been shifting production here since 2019.",
+        "The downsides are real. Vietnam lacks deep supply chains for electronics components and industrial machinery. Many 'Vietnam factories' are actually Chinese-owned facilities that import semi-finished goods from China for final assembly. Labor costs have risen 15-20% since 2022, narrowing the cost advantage."
+      ],
+      "bullets": [
+        "Best for: textiles, footwear, furniture, simple electronics assembly.",
+        "Weak for: complex electronics, precision machinery, automotive parts.",
+        "Labor costs rising but still 20-30% below coastal China."
+      ],
+      "takeaway": "Vietnam works well when your product category matches its ecosystem strengths."
+    },
+    {
+      "title": "India: scale potential with execution friction",
+      "paragraphs": [
+        "India offers a massive domestic market, government production-linked incentive (PLI) schemes, and improving infrastructure. It is strongest in pharmaceuticals, automotive components, and IT hardware. Apple and Foxconn have expanded production significantly since 2023.",
+        "The friction points are significant for small buyers. Supplier discovery is harder than China. Quality consistency varies widely between regions. Customs and logistics are less streamlined. Many buyers find that the total landed cost for India is equivalent to China once you account for these frictions, not cheaper."
+      ],
+      "bullets": [
+        "Best for: pharmaceuticals, automotive parts, IT hardware, leather goods.",
+        "Harder for: consumer goods, general merchandise, fast-moving categories.",
+        "Government PLI schemes can reduce costs but require navigating bureaucracy."
+      ],
+      "takeaway": "India works best for product categories where the government has actively built manufacturing capacity."
+    },
+    {
+      "title": "Mexico: proximity advantage with capacity limits",
+      "paragraphs": [
+        "Mexico's main advantage is geography. USMCA preferential treatment means qualifying goods can enter the US duty-free. Freight transit from Mexico to the US is 2-5 days versus 20-30 days from China. Nearshoring has surged, especially in auto parts, medical devices, and electronics.",
+        "The limitations are capacity and cost. Mexico does not have the supplier density that China has, so finding alternatives if a supplier fails is harder. Labor costs are higher than China for most categories. The USMCA rules of origin require substantial processing in North America, which some products cannot meet."
+      ],
+      "bullets": [
+        "Best for: auto parts, medical devices, large-volume assembled goods.",
+        "Limited for: small consumer goods, general merchandise, textile-heavy products.",
+        "Proximity to US market is a major advantage for time-sensitive categories."
+      ],
+      "takeaway": "Mexico is strongest when USMCA eligibility and fast transit time directly improve your margin."
+    },
+    {
+      "title": "A practical diversification roadmap for small importers",
+      "paragraphs": [
+        "Diversifying your supply chain does not require a massive upfront investment. The most successful small importers follow a phased approach that builds options without overcommitting.",
+        "Phase 1 (months 1-3): Identify which of your products are most exposed to tariff increases or single-supplier risk. These are the candidates for the first China+1 test.",
+        "Phase 2 (months 3-6): Source samples from 2-3 suppliers in your target country. Compare quality, cost, communication, and lead time against your current China supplier. Do not switch entirely yet.",
+        "Phase 3 (months 6-12): Place a pilot order of 10-20% of your typical volume. Use this to test logistics, customs clearance, and the supplier's ability to handle repeat orders.",
+        "Phase 4 (month 12+): Based on pilot results, either increase allocation to the new source or consider a different country. Expect to iterate."
+      ],
+      "bullets": [
+        "Start with one product category, not your entire catalog.",
+        "Run the new source and China in parallel for at least 6 months.",
+        "Budget 12-18 months for the transition to reach comparable efficiency."
+      ],
+      "takeaway": "Successful diversification is iterative. Start small, test thoroughly, and scale what works."
+    }
+  ]
+}

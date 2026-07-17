@@ -27,8 +27,9 @@ export const dynamicParams = false;
 /**
  * 生成全部文章静态参数。
  */
-export function generateStaticParams() {
-  return getArticles().map((article) => ({
+export async function generateStaticParams() {
+  const allArticles = await getArticles();
+  return allArticles.map((article) => ({
     category: article.category,
     slug: article.slug
   }));
@@ -39,7 +40,7 @@ export function generateStaticParams() {
  */
 export async function generateMetadata({ params }: ArticlePageProps): Promise<Metadata> {
   const { category, slug } = await params;
-  const article = getArticleBySlug(category, slug);
+  const article = await getArticleBySlug(category, slug);
 
   if (!article) {
     return buildMetadata({
@@ -62,19 +63,19 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
  */
 export default async function ArticlePage({ params }: ArticlePageProps) {
   const { category, slug } = await params;
-  const article = getArticleBySlug(category, slug);
+  const article = await getArticleBySlug(category, slug);
 
   if (!article) {
     notFound();
   }
 
-  const articleCategory = getCategoryBySlug(article.category);
+  const articleCategory = await getCategoryBySlug(article.category);
 
   if (!articleCategory) {
     notFound();
   }
 
-  const relatedArticles = getRelatedArticles(article);
+  const relatedArticles = await getRelatedArticles(article);
 
   const categorySvgMap: Record<string, string> = {
     "factory-finder": `<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#10b981" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 16V7a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v9m16 0H4m16 0l2 3H2l2-3"/><circle cx="9" cy="14" r="2"/><circle cx="15" cy="14" r="2"/><path d="M10 7h4v2h-4z"/></svg>`,

@@ -1,0 +1,74 @@
+{
+  "slug": "understanding-moq-payment-terms-and-negotiation",
+  "category": "negotiation-pricing",
+  "title": "Understanding MOQ, Payment Terms, and Negotiation",
+  "description": "A direct guide to MOQ, deposit structures, payment methods, and the cultural side of negotiating with Chinese suppliers.",
+  "publishedAt": "2026-02-09",
+  "readingTime": 9,
+  "tags": [
+    "MOQ",
+    "Payment Terms",
+    "Negotiation",
+    "Risk Management"
+  ],
+  "cta": {
+    "title": "Get the importer toolkit",
+    "description": "Save your supplier shortlist, QC checklist, and negotiation notes in one place with a simple sourcing workflow toolkit.",
+    "label": "Join the waitlist",
+    "href": "#subscribe"
+  },
+  "sections": [
+    {
+      "title": "How MOQ works in the real world",
+      "paragraphs": [
+        "MOQ is rarely just a random barrier. It usually reflects material purchasing, setup time, labor efficiency, and the supplier's desire to avoid small, distracting orders. Once you understand what drives the MOQ, you have more room to negotiate.",
+        "A supplier may lower MOQ if you accept simplified packaging, flexible colors, fewer variants, or a slightly higher unit price."
+      ],
+      "bullets": [
+        "Ask what part of the MOQ is driven by materials, tooling, or labor setup.",
+        "Offer compromises that reduce complexity instead of only asking for a lower number.",
+        "Use sample or pilot orders to test the relationship before chasing large volume discounts."
+      ],
+      "takeaway": "MOQ becomes negotiable when you understand the production logic behind it."
+    },
+    {
+      "title": "Comparing payment methods",
+      "paragraphs": [
+        "T/T remains common because it is simple and widely accepted, but buyers should use it with milestone discipline. L/C can be useful for larger transactions, while PayPal or platform-based payment tools may work for samples or smaller test orders.",
+        "No payment method is universally safest. The right choice depends on order size, supplier trust level, leverage, and how well the transaction terms are documented."
+      ],
+      "bullets": [
+        "Use T/T with tight milestone control and strong documentation.",
+        "Consider L/C when order size and banking capability justify the complexity.",
+        "Use smaller-batch payment methods for early trust-building, not for scaling weak supplier relationships."
+      ],
+      "takeaway": "Payment method choice should reflect deal risk, not habit."
+    },
+    {
+      "title": "Deposits and risk management",
+      "paragraphs": [
+        "The typical structure is a deposit before production and the balance before shipment. The real question is not whether deposits exist, but what protections you attach to each payment milestone.",
+        "Risk falls when you approve samples, define inspection rules, and tie balances to documented shipment readiness instead of verbal promises."
+      ],
+      "bullets": [
+        "Avoid paying balances before you have enough proof that goods match the approved order.",
+        "Use production photos, inspection reports, and shipping documents as milestone evidence.",
+        "Do not let urgency replace controls during the final payment stage."
+      ],
+      "takeaway": "A milestone payment structure only works if milestones are verifiable."
+    },
+    {
+      "title": "Cultural tips for productive negotiation",
+      "paragraphs": [
+        "Directness is useful, but relationship damage is expensive. The strongest negotiations stay clear on non-negotiables while remaining respectful, fast, and organized. Suppliers respond better when buyers look prepared and commercially realistic.",
+        "Good negotiation in China is not about performing toughness. It is about showing that you understand the business mechanics and can become a serious repeat customer."
+      ],
+      "bullets": [
+        "Be clear, specific, and respectful in writing.",
+        "Negotiate the package: MOQ, lead time, packaging, payment, and QC together.",
+        "Build leverage through preparation, alternatives, and reliable communication."
+      ],
+      "takeaway": "Professional structure usually beats theatrical bargaining."
+    }
+  ]
+}

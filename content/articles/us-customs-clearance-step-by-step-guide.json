@@ -1,0 +1,74 @@
+{
+  "slug": "us-customs-clearance-step-by-step-guide",
+  "category": "shipping-logistics",
+  "title": "US Customs Clearance: A Step-by-Step Guide for Chinese Imports",
+  "description": "A step-by-step customs clearance guide covering HS codes, duties, customs bond requirements, and common release delays.",
+  "publishedAt": "2026-03-03",
+  "readingTime": 11,
+  "tags": [
+    "US Customs",
+    "HS Codes",
+    "Tariffs",
+    "Customs Bond"
+  ],
+  "cta": {
+    "title": "Get the importer toolkit",
+    "description": "Save your supplier shortlist, QC checklist, and negotiation notes in one place with a simple sourcing workflow toolkit.",
+    "label": "Join the waitlist",
+    "href": "#subscribe"
+  },
+  "sections": [
+    {
+      "title": "Start with HS code classification",
+      "paragraphs": [
+        "Customs clearance problems often begin long before the cargo arrives. If the product is classified incorrectly, you may see wrong duty calculations, documentation problems, or clearance delays that cost both money and time.",
+        "HS classification is not just a paperwork detail. It affects duties, admissibility rules, and whether extra compliance requirements apply."
+      ],
+      "bullets": [
+        "Confirm product material, function, and composition before assigning a code.",
+        "Use broker support when the classification is not obvious.",
+        "Avoid copying a code from a similar product without checking the details."
+      ],
+      "takeaway": "Correct classification is the foundation of customs planning."
+    },
+    {
+      "title": "Understand duties and tariffs early",
+      "paragraphs": [
+        "Duties and tariffs directly affect margin, but many buyers model them too late. By the time freight is booked, pricing flexibility is usually smaller and surprises are more painful.",
+        "Importers should estimate landed cost before confirming the order, especially for products affected by additional tariffs or category-specific fees."
+      ],
+      "bullets": [
+        "Model duties, tariffs, and fees before the purchase order is final.",
+        "Check whether the product category faces special trade measures or seasonal changes.",
+        "Treat landed cost as a sourcing input, not a post-shipment calculation."
+      ],
+      "takeaway": "Customs cost belongs in sourcing math, not just logistics math."
+    },
+    {
+      "title": "Customs bond requirements",
+      "paragraphs": [
+        "For many U.S. imports, a customs bond is required before entry can clear. Importers generally choose between single-entry bonds and continuous bonds depending on shipment frequency and total activity.",
+        "The right bond setup depends on how often you import and how predictable your customs volume will be over time."
+      ],
+      "bullets": [
+        "Use a single-entry bond for occasional shipments when it remains cost-effective.",
+        "Consider a continuous bond if you import repeatedly during the year.",
+        "Coordinate bond setup with your customs broker before the shipment arrives."
+      ],
+      "takeaway": "Bond planning should happen before cargo reaches the port."
+    },
+    {
+      "title": "Common clearance issues and how to reduce them",
+      "paragraphs": [
+        "The most common problems are incomplete documents, mismatched invoice details, wrong classifications, and goods that trigger extra review. Clearance moves faster when the supplier, forwarder, and broker all work from the same information.",
+        "Good importers treat customs as a cross-functional workflow. Product details, packaging, invoice language, and broker instructions should all line up before departure."
+      ],
+      "bullets": [
+        "Review invoice, packing list, product description, and broker instructions together.",
+        "Make sure shipment data matches the goods that are actually packed.",
+        "Build extra time into the schedule when the product category is sensitive or unfamiliar."
+      ],
+      "takeaway": "Clearance delays usually come from preventable coordination gaps."
+    }
+  ]
+}
